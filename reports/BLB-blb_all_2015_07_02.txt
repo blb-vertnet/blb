@@ -1,0 +1,269 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 1397
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 9
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Peru ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Thailand ; Times: 19
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 110
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 11
+	Date: 2015-06-03 ; Times: 6
+	Date: 2015-06-05 ; Times: 7
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-09 ; Times: 9
+	Date: 2015-06-10 ; Times: 4
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-13 ; Times: 15
+	Date: 2015-06-14 ; Times: 17
+	Date: 2015-06-15 ; Times: 17
+	Date: 2015-06-16 ; Times: 9
+	Date: 2015-06-17 ; Times: 10
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-21 ; Times: 3
+	Date: 2015-06-22 ; Times: 8
+	Date: 2015-06-23 ; Times: 4
+	Date: 2015-06-24 ; Times: 3
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 5
+	Date: 2015-06-27 ; Times: 6
+	Date: 2015-06-28 ; Times: 3
+	Date: 2015-06-29 ; Times: 18
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "aves Georgia United States Agelaius phoeniceus" ; Times: 1
+	Query: "vanellus chilensis" ; Times: 1
+	Query: "aves Georgia United States Passerina ciris" ; Times: 3
+	Query: "aegithalos concinnus" ; Times: 1
+	Query: "310380" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR months old OR days old)" ; Times: 1
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "uetz" ; Times: 1
+	Query: "Guatemala city class:Aves" ; Times: 1
+	Query: "Myiodynastes maculatus brazil" ; Times: 1
+	Query: "riparia stateprovince:"alaska" class:aves" ; Times: 1
+	Query: "Zenaida graysoni" ; Times: 30
+	Query: "Procnias averano" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "cyanocompsa cyanoides institutioncode:BLB" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Legatus leucophaius brazil" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "borror lab" ; Times: 1
+	Query: "phylloscopus reguloides" ; Times: 3
+	Query: "aves Georgia United States Quiscalus quiscula" ; Times: 1
+	Query: "Sitta neglecta" ; Times: 1
+	Query: "Ducula pinon pinon" ; Times: 2
+	Query: "aves Georgia United States Geothlypis trichas" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "Embernagra platensis brazil" ; Times: 1
+	Query: "Archbold Biological Station county:"Highlands" stateprovince:"Florida" class:Mammalia" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Passerculus yellowstone" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (NOT leo)" ; Times: 1
+	Query: "aves Georgia United States Dumetella carolinensis" ; Times: 1
+	Query: "BLB" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 2
+	Query: "bird rock genus:Cepphus grylle" ; Times: 1
+	Query: "Sephanoides sephaniodes" ; Times: 1
+	Query: "Sitta magna" ; Times: 2
+	Query: "specificepithet:uncia" ; Times: 2
+	Query: "aves Georgia United States Cardinalis cardinalis" ; Times: 2
+	Query: "37860 class:aves" ; Times: 2
+	Query: "aves Georgia United States Regulus calendula" ; Times: 2
+	Query: "acrocephalus scirpaceus" ; Times: 1
+	Query: "type:observation stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 6
+	Query: "aves Georgia United States Sturnus vulgaris" ; Times: 1
+	Query: "vireo olivaceus brazil" ; Times: 1
+	Query: "institutioncode:blb" ; Times: 1
+	Query: "cepphus grylle gull rock" ; Times: 1
+	Query: "aves Georgia United States Protonotaria" ; Times: 1
+	Query: "Myiarchus swainsoni brazil" ; Times: 1
+	Query: "seicercus whistleri" ; Times: 2
+	Query: "androdon aequatorialis" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "higgins stateprovince:"north carolina"" ; Times: 1
+	Query: "aves Georgia United States Passer domesticus" ; Times: 1
+	Query: "aves Georgia United States "Passer domesticus"" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:henslowii genus:ammodramus" ; Times: 1
+	Query: "Selasphorus flammula" ; Times: 1
+	Query: "Stephanophorus diadematus brazil" ; Times: 1
+	Query: "amandava amandava" ; Times: 1
+	Query: "Tamiasciurus wyoming teton" ; Times: 1
+	Query: "Panterpe insignis" ; Times: 4
+	Query: "honeycreeper" ; Times: 1
+	Query: "aves Georgia United States Spizella passerina" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 4
+	Query: "trogon aurantiiventris" ; Times: 2
+	Query: "sitta magna" ; Times: 17
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "American robin song" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Borror Lab" ; Times: 1
+	Query: "centrocercus minimus" ; Times: 1
+	Query: "Campylopterus excellens" ; Times: 2
+	Query: "aves Tiburon Island" ; Times: 1
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "rynchops nigra" ; Times: 1
+	Query: "Little Ocmulgee State Park" ; Times: 1
+	Query: "Thryothorus griseus" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.574730978806656,-82.45166033506393))<68784" ; Times: 4
+	Query: "aves Georgia United States formosus" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "Enfield county:"Tompkins" stateprovince:"New York"" ; Times: 1
+	Query: "stateprovince:"Alberta" (waterton lakes)" ; Times: 1
+	Query: "aves Georgia United States Geothlypis" ; Times: 1
+	Query: "anaxyrus fowlerii" ; Times: 1
+	Query: "Priotelus" ; Times: 1
+	Query: "viburnum" ; Times: 1
+	Query: "Archbold Biological Station class:Aves" ; Times: 1
+	Query: "aves Georgia United States Sturnus" ; Times: 3
+	Query: "aves Georgia United States Mimus polyglottos" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1524 download events in this period)
+Total number of records downloaded: 2116 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1677
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Denmark ; Times: 22
+	Country: France ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 4
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 4
+	Date: 2015-06-29 ; Times: 18
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "Campylopterus excellens" ; Times: 2
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Myiodynastes maculatus brazil" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Zenaida graysoni" ; Times: 2
+	Query: "anas rubripes" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "Myiarchus swainsoni brazil" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Amphibia mappable:1" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "androdon aequatorialis" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Legatus leucophaius brazil" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:henslowii genus:ammodramus" ; Times: 1
+	Query: "Selasphorus flammula" ; Times: 2
+	Query: "crucifer" ; Times: 1
+	Query: "anaxyrus woodhousii" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Sephanoides sephaniodes" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Eupherusa eximia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 315
+Total number of records retrieved from searches: 2303
+Number of download events that retrieved data from the resource: 114
+Total number of records downloaded: 8362
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 315
+Total number of records retrieved from searches: 2303
+Number of download events that retrieved data from the resource: 114
+Total number of records downloaded: 8362
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
