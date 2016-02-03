@@ -1,0 +1,204 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 346
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 10
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 43
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-05 ; Times: 7
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 10
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-24 ; Times: 6
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "california state university chico" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 2
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "bullfrog (recording)" ; Times: 4
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "paradisaea raggiana female" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "bullfrog (recording) institutioncode:BLB" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Seiurus aurocapilla (Canada)" ; Times: 1
+	Query: "Little Gull" ; Times: 4
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 1
+	Query: "Glaucis hirsutus mappable:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 2
+	Query: "kiwi" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "Jaguar" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "ovenbird (canada)" ; Times: 1
+	Query: "Sitta leucopsis" ; Times: 2
+	Query: "yellow rail" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "elephas maximus" ; Times: 3
+	Query: "parus major" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "bullfrog institutioncode:BLB" ; Times: 1
+	Query: "spermestes fringilloides" ; Times: 1
+	Query: "parus major india" ; Times: 1
+	Query: "genus:acinonyx" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "melozone aberti" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx mappable:1" ; Times: 4
+	Query: "parus xanthogenys" ; Times: 4
+	Query: "Leptopoecile" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "paradisaea minor female" ; Times: 7
+	Query: "genus:Icteria stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Eleutherodactylus fleischmanni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 823 download events in this period)
+Total number of records downloaded: 11429
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 2
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 8
+	Country: United States ; Times: 57
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 10
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 17
+	Date: 2015-10-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "(ciccaba)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Henicorhina leucophrys mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "county:&#34;Bandera&#34; mappable:1" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "american tree sparrow" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "cervus elaphus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "marmorata" ; Times: 1
+	Query: "Glaucis hirsutus mappable:1" ; Times: 1
+	Query: "Leopard specificepithet:pardus genus:Panthera mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "kangaroo" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Campylorhynchus gularis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx mappable:1" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "order:primates" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "sora" ; Times: 1
+
+
+End of report.
