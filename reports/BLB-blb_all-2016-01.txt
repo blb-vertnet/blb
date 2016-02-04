@@ -1,0 +1,159 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 689
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 31
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-08 ; Times: 5
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammal sounds" ; Times: 1
+	Query: "priotelus temnurus" ; Times: 1
+	Query: "urine" ; Times: 2
+	Query: "specificepithet:atricapilla genus:vireo class:Aves stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Loxodonta &#34;africana&#34; mappable:1" ; Times: 1
+	Query: "ANAS PLATYRHYNCHOS diazi" ; Times: 2
+	Query: "pitiayumi brazil" ; Times: 1
+	Query: "institutioncode:BLB" ; Times: 4
+	Query: "glass frog" ; Times: 1
+	Query: "nuts" ; Times: 1
+	Query: "Loricariidae United States" ; Times: 2
+	Query: "Geothlypis aequinoctialis brazil" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "blb" ; Times: 1
+	Query: "gbifdatasetid:f11db245-3f9f-4fc6-a0cc-12b4124d081b" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "porzana cinerea" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "Roaring River stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "myrmeciza immaculata" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "blue penguin" ; Times: 3
+	Query: "junco Minnesota" ; Times: 1
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "distance(location,geopoint(29.259036,-110.637516))&lt;15000" ; Times: 1
+	Query: "stellar jay" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 507 download events in this period)
+Total number of records downloaded: 728
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 25
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-05 ; Times: 8
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 4
+	Date: 2016-01-02 ; Times: 6
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "&#34;Syndactyla rufosuperciliata&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "junco Minnesota" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "&#34;Myrmotherula schisticolor&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
