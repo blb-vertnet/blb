@@ -1,0 +1,150 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 543
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 3
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-04 ; Times: 4
+	Date: 2016-02-09 ; Times: 3
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 5
+	Date: 2016-02-19 ; Times: 11
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "talegalla" ; Times: 1
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Gnorimopsar chopi brazil" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 2
+	Query: "guttatus virginia" ; Times: 2
+	Query: "13 lined ground squirrel" ; Times: 1
+	Query: "Lama glama mappable:1" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 2
+	Query: "henicorhina leucosticta" ; Times: 1
+	Query: "barking frog" ; Times: 2
+	Query: "(naked mole rat) mappable:1" ; Times: 1
+	Query: "Carolina Chickadee institutioncode:BLB" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "Spinus tristis" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "urocitellus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 5
+	Query: "mammoth cave" ; Times: 2
+	Query: "hippo" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "genus:ochotona stateprovince:Nevada" ; Times: 2
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "genus:Procnias class:Aves stateprovince:&#34;Rio Grande&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:icterus" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "Anthornis" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "specificepithet:nudicollis genus:Procnias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anas tristis" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "bostrychia olivacea" ; Times: 2
+	Query: "Dunham class:Aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 512 download events in this period)
+Total number of records downloaded: 2813
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 17
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 10
+	Date: 2016-02-19 ; Times: 13
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 4
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "Podiceps major" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
