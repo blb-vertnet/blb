@@ -1,0 +1,101 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 47
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pycnonotus jocosus australia" ; Times: 1
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "carnivore" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "playa escondida" ; Times: 1
+	Query: "genus:Aedes" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 3
+	Query: "volcan baru" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "diglossa plumbea" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "volcan de chiriqui" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 230 download events in this period)
+Total number of records downloaded: 395
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 10
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "blue- winged teal" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "setophaga pitiayumi" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+	Query: "Setophaga nigrescens" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "volcan baru" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.
