@@ -1,0 +1,223 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 1150
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 87
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 44
+	Country: Montenegro ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 7
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-27 ; Times: 24
+	Date: 2016-04-26 ; Times: 12
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-14 ; Times: 16
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 63
+	Date: 2016-04-29 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 3
+	Query: "elephants" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-112.167516))&lt;15000" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "Vermivora chrysoptera Ontario" ; Times: 10
+	Query: "Dumetella carolinensis (British Columbia)" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "frogs panama" ; Times: 1
+	Query: "Dolichonyx oryzivorus Ontario" ; Times: 10
+	Query: "distance(location,geopoint(32.149036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Setophaga citrina Ontario" ; Times: 10
+	Query: "rhino" ; Times: 1
+	Query: "Hylocichla mustelina Ontario" ; Times: 10
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Dolichonyx oryzivorus ONTARIO 1" ; Times: 2
+	Query: "class:Amphibia county:&#34;Perry&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.317516))&lt;15000" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "&#34;vermivora bachmanii&#34;" ; Times: 1
+	Query: "genus:dasyprocta country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.877516))&lt;15000" ; Times: 5
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.807516))&lt;15000" ; Times: 1
+	Query: "birds from Turkey" ; Times: 1
+	Query: "class:Amphibia county:&#34;Morgan&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Brevard County" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Graham pectoralis" ; Times: 1
+	Query: "Ammodramus savannarum Ontario" ; Times: 10
+	Query: "distance(location,geopoint(20.759036,-105.537516))&lt;15000" ; Times: 3
+	Query: "crotalus horridus delaware" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Sturnella magna Ontario" ; Times: 10
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "bluebirds" ; Times: 1
+	Query: "ornithion" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "361 county:&#34;Dixie&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Dickenson county virginia" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(29.550798565951915,-83.37207412841963))&lt;4287.8872129491065" ; Times: 1
+	Query: "llama" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "boobie" ; Times: 1
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "Callipepla AND Santa Cruz Island" ; Times: 1
+	Query: "Hailman" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.147516))&lt;15000" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Hirundo rustica  ONTARIO 1" ; Times: 2
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-112.167516))&lt;15000" ; Times: 2
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "terpsiphone bourbonnensis" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:discolor genus:Setophaga mappable:1" ; Times: 3
+	Query: "genus:phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Phylloscartes class:Aves stateprovince:&#34;RIO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ammodramus savannarum manitoba" ; Times: 1
+	Query: "Dolichonyx oryzivorus Ontario 1" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "distance(location,geopoint(21.779036,-105.877516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(25.689036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.219036,-112.337516))&lt;15000" ; Times: 1
+	Query: "Hirundo rustica  Ontario 1" ; Times: 1
+	Query: "birds from Europe" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 131 (out of 1312 download events in this period)
+Total number of records downloaded: 3491
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 21
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 94
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 6
+	Date: 2016-04-22 ; Times: 7
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 9
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "Urocitellus beldingi beldingi (California)" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "terpsiphone bourbonnensis" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
