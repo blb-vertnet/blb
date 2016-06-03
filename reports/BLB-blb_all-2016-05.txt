@@ -1,0 +1,125 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 1731
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 42
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-13 ; Times: 7
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-26 ; Times: 7
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-22 ; Times: 5
+	Date: 2016-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "Agelaius AND Santa Cruz Island" ; Times: 1
+	Query: "mosquitoes aegypti" ; Times: 1
+	Query: "advertisement call" ; Times: 1
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "institutioncode:BLB" ; Times: 1
+	Query: "Anser anser institutioncode:BLB" ; Times: 4
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "Anas anas institutioncode:BLB" ; Times: 1
+	Query: "gbifdatasetid:f11db245-3f9f-4fc6-a0cc-12b4124d081b" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "Agelaius AND Santa Barbara Island" ; Times: 1
+	Query: "Sturnella neglecta AND Santa Cruz Island" ; Times: 2
+	Query: "yellow bellied warbler" ; Times: 1
+	Query: "Monochamus" ; Times: 3
+	Query: "Zonotrichia leucophrys AND hybrid" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "distance(location,geopoint(20.827036,-105.509516))&lt;15000" ; Times: 1
+	Query: "Sturnella neglecta AND Santa Barbara Island" ; Times: 1
+	Query: "cistothorus platensis institutioncode:BLB" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "aegypti" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 327 download events in this period)
+Total number of records downloaded: 834
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 27
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Anser anser institutioncode:BLB" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "cistothorus platensis institutioncode:BLB" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
