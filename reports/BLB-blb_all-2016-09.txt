@@ -1,0 +1,280 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 221
+Number of records retrieved in searches: 5296
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 9
+	Country: Portugal ; Times: 126
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 32
+	Country: Colombia ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-10 ; Times: 35
+	Date: 2016-09-08 ; Times: 71
+	Date: 2016-09-09 ; Times: 53
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 2
+	Date: 2016-09-06 ; Times: 16
+	Date: 2016-09-07 ; Times: 30
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-01 ; Times: 5
+	Date: 2016-09-02 ; Times: 1
+	Date: 2016-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lonchura leucogastroides 1" ; Times: 1
+	Query: "Aphantochroa cirrhochloris 1" ; Times: 1
+	Query: "Heliodoxa jacula 1" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Bolborhynchus lineola 1" ; Times: 1
+	Query: "Lonchura malacca 1" ; Times: 3
+	Query: "Phaethornis longuemareus 1" ; Times: 1
+	Query: "Aceros plicatus 1" ; Times: 2
+	Query: "Selasphorus scintilla 1" ; Times: 1
+	Query: "Amazona albifrons 1" ; Times: 3
+	Query: "Synallaxis spixi 1" ; Times: 1
+	Query: "Acinonyx jubatus mappable:1" ; Times: 1
+	Query: "Phaethornis longirostris 1" ; Times: 1
+	Query: "Cygnus olor 1" ; Times: 2
+	Query: "Anas rubripes 1" ; Times: 1
+	Query: "Hylocharis leucotis 1" ; Times: 1
+	Query: "Trichoglossus haematodus 1" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Meleagris ocellata 1" ; Times: 1
+	Query: "Columbina cruziana 1" ; Times: 1
+	Query: "Geopelia placida 1" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 2
+	Query: "Dolichonyx oryzivorus 1" ; Times: 1
+	Query: "Amazona farinosa 1" ; Times: 2
+	Query: "Aprosmictus erythropterus 1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 3
+	Query: "Cebus capucinus 1" ; Times: 1
+	Query: "Ortalis vetula 1" ; Times: 1
+	Query: "Dromaius novaehollandiae 1" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "&#34;Panthera tigris&#34; mappable:1" ; Times: 1
+	Query: "Anas cyanoptera 1" ; Times: 2
+	Query: "Acridotheres tristis 1" ; Times: 2
+	Query: "&#34;Panthera tigris tigris&#34; mappable:1" ; Times: 1
+	Query: "Alisterus scapularis 1" ; Times: 1
+	Query: "Paroaria coronata 1" ; Times: 1
+	Query: "Schistes geoffroyi 1" ; Times: 1
+	Query: "Taeniopygia guttata 1" ; Times: 3
+	Query: "Bos taurus stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "Eupherusa eximia 1" ; Times: 1
+	Query: "Cacatua roseicapilla 1" ; Times: 1
+	Query: "Leucosarcia melanoleuca 1" ; Times: 1
+	Query: "Synallaxis azarae 1" ; Times: 1
+	Query: "Lonchura cucullata 1" ; Times: 1
+	Query: "Eugenes fulgens 1" ; Times: 1
+	Query: "Brotogeris jugularis 1" ; Times: 1
+	Query: "Pycnonotus jocosus 1" ; Times: 1
+	Query: "Brotogeris versicolurus 1" ; Times: 1
+	Query: "Lonchura nana 1" ; Times: 1
+	Query: "Aramus guarauna 1" ; Times: 1
+	Query: "Leucochloris albicollis 1" ; Times: 1
+	Query: "Ducula rosacea 1" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "birds malabar" ; Times: 2
+	Query: "Eurypyga helias 1" ; Times: 1
+	Query: "Synallaxis albescens 1" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "ELEPHANTS" ; Times: 1
+	Query: "&#34;Panthera tigris tigris&#34;" ; Times: 1
+	Query: "Gracula religiosa 1" ; Times: 1
+	Query: "Meleagris gallopavo 1" ; Times: 2
+	Query: "Branta bernicla 1" ; Times: 1
+	Query: "Amazilia amazilia 1" ; Times: 1
+	Query: "Alectoris chukar 1" ; Times: 2
+	Query: "Himantopus mexicanus 1" ; Times: 1
+	Query: "Agapornis roseicollis 1" ; Times: 2
+	Query: "Lonchura striata 1" ; Times: 1
+	Query: "Icterus pectoralis 1" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 1
+	Query: "Colibri coruscans 1" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "&#34;Acinonyx jubatus&#34;" ; Times: 1
+	Query: "&#34;acinonyx&#34; mappable:1" ; Times: 1
+	Query: "Carduelis magellanica 1" ; Times: 1
+	Query: "Oena capensis 1" ; Times: 1
+	Query: "Calliphlox bryantae 1" ; Times: 1
+	Query: "Haematopus bachmani 1" ; Times: 1
+	Query: "Glaucis aeneus 1" ; Times: 1
+	Query: "Phaethornis striigularis 1" ; Times: 1
+	Query: "Aix sponsa 1" ; Times: 2
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Campylopterus excellens 1" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Panthera tigris zoo" ; Times: 1
+	Query: "Cacatua galerita 1" ; Times: 1
+	Query: "Eupetomena macroura 1" ; Times: 1
+	Query: "Serinus canaria 1" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 2
+	Query: "&#34;Acinonyx jubatus&#34; mappable:1" ; Times: 4
+	Query: "Florisuga mellivora 1" ; Times: 1
+	Query: "Margarornis rubiginosus 1" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "Dendrocygna autumnalis 1" ; Times: 2
+	Query: "Amazona ochrocephala 1" ; Times: 2
+	Query: "Lonchura bicolor 1" ; Times: 1
+	Query: "Selasphorus platycercus 1" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "Penelope purpurascens 1" ; Times: 1
+	Query: "Balearica regulorum 1" ; Times: 2
+	Query: "Phaethornis guy 1" ; Times: 1
+	Query: "Colibri delphinae 1" ; Times: 1
+	Query: "Zonotrichia albicollis 1" ; Times: 1
+	Query: "Trochilidae institutioncode:BLB" ; Times: 1
+	Query: "Callipepla douglasii 1" ; Times: 1
+	Query: "bengal tiger mappable:1" ; Times: 1
+	Query: "&#34;Leontopithecus rosalia&#34; mappable:1" ; Times: 1
+	Query: "numenius tahitiensis" ; Times: 1
+	Query: "Threnetes ruckeri 1" ; Times: 1
+	Query: "(panthera tigris tigris ) mappable:1" ; Times: 1
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "Phaethornis superciliosus 1" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Anser albifrons 1" ; Times: 2
+	Query: "Calocitta formosa 1" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "Amazilia saucerrottei 1" ; Times: 1
+	Query: "Ateles geoffroyi 1" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "Androdon aequatorialis 1" ; Times: 1
+	Query: "Calyptorhynchus banksii 1" ; Times: 1
+	Query: "Ovis Cyprus" ; Times: 1
+	Query: "Lonchura griseicapilla 1" ; Times: 1
+	Query: "Ortalis poliocephala 1" ; Times: 2
+	Query: "Columba livia 1" ; Times: 1
+	Query: "Rana catesbeiana  1" ; Times: 1
+	Query: "Bubo scandiacus 1" ; Times: 1
+	Query: "Anas discors 1" ; Times: 2
+	Query: "Leptasthenura setaria 1" ; Times: 1
+	Query: "Amazilia tzacatl 1" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "Colibri serrirostris 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 5
+	Query: "Leptoptilos crumeniferus 1" ; Times: 1
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "Amazilia rutila 1" ; Times: 1
+	Query: "Ovis (Cyprus)" ; Times: 8
+	Query: "Crax alector 1" ; Times: 1
+	Query: "Zenaida auriculata 1" ; Times: 1
+	Query: "Ramphodon naevius 1" ; Times: 1
+	Query: "Corvus albus 1" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 3
+	Query: "Lagothrix lagotricha 1" ; Times: 1
+	Query: "Lampornis castaneoventris 1" ; Times: 1
+	Query: "Geopelia striata 1" ; Times: 2
+	Query: "Alopochen aegyptiaca 1" ; Times: 1
+	Query: "Lonchura nevermanni 1" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 2
+	Query: "Colibri thalassinus 1" ; Times: 1
+	Query: "Campylopterus hemileucurus 1" ; Times: 1
+	Query: "Momotus coeruliceps" ; Times: 1
+	Query: "Bucephala clangula 1" ; Times: 1
+	Query: "tapirus terrestris" ; Times: 3
+	Query: "genus:Atelopus specificepithet:chiriquiensis" ; Times: 1
+	Query: "Glaucis hirsutus 1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Coeligena coeligena 1" ; Times: 1
+	Query: "Archbold Biological Station class:Aves" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Corvus albicollis 1" ; Times: 1
+	Query: "Sicalis flaveola 1" ; Times: 1
+	Query: "Grus canadensis 1" ; Times: 2
+	Query: "Selasphorus rufus 1" ; Times: 1
+	Query: "Callipepla gambelii 1" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 159 (out of 811 download events in this period)
+Total number of records downloaded: 1497
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 99
+	Country: Mexico ; Times: 3
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 52
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-11 ; Times: 6
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-06 ; Times: 6
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 13
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 5
+	Date: 2016-09-09 ; Times: 4
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-07 ; Times: 8
+	Date: 2016-09-01 ; Times: 13
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 14
+	Date: 2016-09-12 ; Times: 6
+	Date: 2016-09-05 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "shenandoah national Park" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "(panthera tigris tigris ) mappable:1" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "Trochilidae institutioncode:BLB" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Callipepla californica" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+
+
+End of report.
