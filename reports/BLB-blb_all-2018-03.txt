@@ -1,0 +1,271 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 550
+Number of records retrieved in searches: 4583
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 14
+	Country: India ; Times: 3
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Japan ; Times: 65
+	Country: United States ; Times: 424
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 20
+	Date: 2018-03-29 ; Times: 18
+	Date: 2018-03-17 ; Times: 5
+	Date: 2018-03-16 ; Times: 10
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-18 ; Times: 23
+	Date: 2018-03-01 ; Times: 20
+	Date: 2018-03-02 ; Times: 36
+	Date: 2018-03-03 ; Times: 5
+	Date: 2018-03-05 ; Times: 48
+	Date: 2018-03-06 ; Times: 25
+	Date: 2018-03-07 ; Times: 20
+	Date: 2018-03-26 ; Times: 76
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-24 ; Times: 4
+	Date: 2018-03-25 ; Times: 27
+	Date: 2018-03-22 ; Times: 16
+	Date: 2018-03-23 ; Times: 34
+	Date: 2018-03-20 ; Times: 50
+	Date: 2018-03-21 ; Times: 31
+	Date: 2018-03-27 ; Times: 62
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 2
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 10
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 4
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "gulledge" ; Times: 4
+	Query: "genus:Steatornis specificepithet:caripensis" ; Times: 5
+	Query: "Northern Leopard Frog" ; Times: 1
+	Query: "genus:Ceratotherium specificepithet:simum" ; Times: 5
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 5
+	Query: "genus:Alouatta specificepithet:seniculus" ; Times: 12
+	Query: "specificepithet:latrans genus:Canis (captive OR zoo)" ; Times: 1
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 2
+	Query: "order:Casuariiformes" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:canorus" ; Times: 6
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 6
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 6
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "cyanocitta coronata" ; Times: 3
+	Query: "genus:Leontopithecus specificepithet:rosalia" ; Times: 7
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 10
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 5
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 2
+	Query: "ebird" ; Times: 1
+	Query: "locality:Presidio county:&#34;San Francisco&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "McAllen" ; Times: 2
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 2
+	Query: "Hylobatidae" ; Times: 2
+	Query: "Pselliophorus tibialis" ; Times: 1
+	Query: "arthropoda" ; Times: 1
+	Query: "saxicola insignis" ; Times: 1
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 2
+	Query: "genus:Lagothrix specificepithet:lagotricha" ; Times: 7
+	Query: "Amazona oratrix" ; Times: 3
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 2
+	Query: "mosquitoes" ; Times: 1
+	Query: "bengal tiger" ; Times: 2
+	Query: "Melozone crissalis" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "phylum:arthropoda hasmass:0" ; Times: 2
+	Query: "ARATINGA HOLOCHLORA" ; Times: 1
+	Query: "genus:Arenaria specificepithet:melanocephala" ; Times: 2
+	Query: "genus:Atelopus specificepithet:flavescens" ; Times: 6
+	Query: "genus:Megaptera specificepithet:novaeangliae" ; Times: 2
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "&#34;las moras&#34;" ; Times: 3
+	Query: "genus:gorilla specificepithet:gorilla" ; Times: 2
+	Query: "35919" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 2
+	Query: "genus:Cochranella specificepithet:granulosa" ; Times: 9
+	Query: "genus:Panthera specificepithet:leo" ; Times: 5
+	Query: "genus:Sympetrum" ; Times: 1
+	Query: "genus:Gallus specificepithet:gallus" ; Times: 3
+	Query: "specificepithet:variegatus genus:Bradypus" ; Times: 1
+	Query: "genus:Dicerorhinus specificepithet:sumatrensis" ; Times: 5
+	Query: "genus:Pithecia specificepithet:pithecia" ; Times: 7
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 8
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 6
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 2
+	Query: "specificepithet:punctata genus:Dasyprocta" ; Times: 1
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 5
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "genus:Cebus specificepithet:apella" ; Times: 7
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 6
+	Query: "buteo swainsoni locality unspecified" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 5
+	Query: "genus:Alouatta specificepithet:palliata" ; Times: 13
+	Query: "Pezopetes capitalis" ; Times: 1
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 8
+	Query: "locality:Las Moras county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ameiurus specificepithet:melas" ; Times: 5
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:Tapirus specificepithet:indicus" ; Times: 5
+	Query: "Junco vulcani" ; Times: 1
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 2
+	Query: "ceratotherium simum" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 3
+	Query: "genus:Atelopus specificepithet:chiriquiensis" ; Times: 6
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:houstonensis" ; Times: 6
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 2
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 2
+	Query: "genus:Ortalis  specificepithet:vetula " ; Times: 3
+	Query: "claravis mondetoura" ; Times: 65
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "Lonchura malacca " ; Times: 2
+	Query: "&#34;fort clark&#34;" ; Times: 1
+	Query: "after birth" ; Times: 1
+	Query: "genus:Hylobates specificepithet:leucogenys" ; Times: 6
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "genus:Cebus specificepithet:capucinus" ; Times: 7
+	Query: "genus:Callithrix specificepithet:jacchus" ; Times: 7
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 8
+	Query: "genus:Pan specificepithet:paniscus" ; Times: 5
+	Query: "apis" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "genus:Rhinoceros specificepithet:unicornis" ; Times: 5
+	Query: "Melanospiza richardsoni" ; Times: 6
+	Query: "Saltator albicollis" ; Times: 2
+	Query: "genus:Felis specificepithet:catus" ; Times: 2
+	Query: "Hippopotamus amphibius" ; Times: 4
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 5
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "Panthera onca vntype:observation" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 5
+	Query: "specificepithet:oberholseri genus:Empidonax stateprovince:California" ; Times: 1
+	Query: "thryothorus griseus" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "iptrecordid:&#34;urn:lsid:biosci.ohio-state.edu:osuc_occurrences:BLB35199&#34;" ; Times: 4
+	Query: "class:aves country:&#34;bhutan&#34;" ; Times: 1
+	Query: "genus:Bradypus specificepithet:variegatus" ; Times: 6
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "locality:Fort Clark county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "pipilo albicollis" ; Times: 2
+	Query: "specificepithet:incana class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "puma vntype:observation" ; Times: 3
+	Query: "Panthera tigris " ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "Streptopelia decaocto " ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "genus:gorilla" ; Times: 2
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "genus:Centrolene specificepithet:prosoblepon" ; Times: 6
+	Query: "scientificname:gorilla gorilla" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 2
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 2
+	Query: "genus:Hylobates specificepithet:syndactylus" ; Times: 6
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 5
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 2
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 3
+	Query: "Hominidae" ; Times: 2
+	Query: "diptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1284 download events in this period)
+Total number of records downloaded: 566
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 7
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 9
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "class:Aves country:&#34;Portugal&#34;" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "thryothorus griseus" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "eucometis penicillata" ; Times: 1
+	Query: "class:aves country:&#34;bhutan&#34;" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
