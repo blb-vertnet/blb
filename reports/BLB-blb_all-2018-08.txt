@@ -1,0 +1,204 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 1572
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 30
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 72
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: Argentina ; Times: 3
+	Country: Bolivia ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 37
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-08 ; Times: 7
+	Date: 2018-08-19 ; Times: 3
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 4
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-22 ; Times: 12
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 15
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-11 ; Times: 4
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-07 ; Times: 13
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "nativitatis christmas island" ; Times: 1
+	Query: "costa mesa california" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "185763" ; Times: 1
+	Query: "colostethus inguinalis" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; institutioncode:BLB" ; Times: 2
+	Query: "Leptodactylus pentadactylus mappable:1" ; Times: 1
+	Query: "institutioncode:BLB" ; Times: 1
+	Query: "vntype:observation specificepithet:brunneicapillus genus:Campylorhynchus" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 3
+	Query: "county:&#34;Pottawattamie&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 3
+	Query: "Scinax staufferi mappable:1" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "colinus stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "Araneae" ; Times: 1
+	Query: "Lampornis AND Costa Rica" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "Agalychnis callidryas hassex:1" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni mappable:1" ; Times: 1
+	Query: "genus:Troglodytes locality:St. Paul Island stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "Chloroptera aves" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "picta victoria" ; Times: 1
+	Query: "Acm" ; Times: 10
+	Query: "Goura cristata" ; Times: 3
+	Query: "araneae" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "genus:rhipidura country:&#34;new zealand&#34;" ; Times: 1
+	Query: "South Sentinel" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 5
+	Query: "15862" ; Times: 3
+	Query: "aedes aegypti" ; Times: 1
+	Query: "specificepithet:californica genus:callipepla stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "Onychoprion aleuticus" ; Times: 48
+	Query: "passerina hybrid" ; Times: 2
+	Query: "colinus AND carolina" ; Times: 1
+	Query: "rhinoceros unicornis" ; Times: 1
+	Query: "bonobo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1416 download events in this period)
+Total number of records downloaded: 2142
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 11
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 14
+	Country: Spain ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-28 ; Times: 2
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 9
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-14 ; Times: 9
+	Date: 2018-08-15 ; Times: 9
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 15
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 2
+	Query: "Asio flammeus" ; Times: 5
+	Query: "sistrurus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 2
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "great tailed grackle" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "Aleutian Tern" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Ara" ; Times: 2
+	Query: "rhinella marina" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "catesbeiana" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 4
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.
