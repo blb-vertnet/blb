@@ -1,0 +1,181 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 1214
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 6
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 60
+	Country: Denmark ; Times: 8
+	Country: India ; Times: 10
+	Country: Malta ; Times: 1
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-17 ; Times: 14
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-24 ; Times: 20
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 3
+	Date: 2018-09-27 ; Times: 5
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-21 ; Times: 10
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 10
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 11
+	Date: 2018-09-20 ; Times: 31
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aberti genus:melozone" ; Times: 1
+	Query: "periparus ater -skin" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "zonotrichia leucophrys Churchill" ; Times: 1
+	Query: "gypsy moth" ; Times: 3
+	Query: "house crow" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 5
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "institutioncode:BLB" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Nazca Booby" ; Times: 2
+	Query: "ted alexander" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "BLB" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 28
+	Query: "woof" ; Times: 1
+	Query: "songbird" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla stateprovince:&#34;South Carolina&#34; basisofrecord:HumanObservation" ; Times: 1
+	Query: "panthera tigris vntype:observation" ; Times: 1
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "specificepithet:crissalis genus:melozone" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 15
+	Query: "Borror Laboratory of Bioacoustics" ; Times: 1
+	Query: "tapir" ; Times: 1
+	Query: "gbifdatasetid:f11db245-3f9f-4fc6-a0cc-12b4124d081b" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "falkner" ; Times: 2
+	Query: "cave san francisco" ; Times: 1
+	Query: "Panthera tigris" ; Times: 7
+	Query: "specificepithet:lugubris genus:quiscalus" ; Times: 2
+	Query: "specificepithet:szalayi genus:oriolus" ; Times: 1
+	Query: "Georgia Southern University" ; Times: 1
+	Query: "ara macao" ; Times: 9
+	Query: "aedes aegypti" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "diceros" ; Times: 1
+	Query: "mimosa" ; Times: 1
+	Query: "leptodactylus poecilochilus" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "daucus" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "vntype:observation stateprovince:&#34;Quebec&#34;" ; Times: 3
+	Query: "calopteryx" ; Times: 1
+	Query: "specificepithet:ater genus:Periparus" ; Times: 1
+	Query: "orchids" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 846 download events in this period)
+Total number of records downloaded: 1556
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 9
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 7
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes mappable:1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "specificepithet:nippon genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera mappable:1" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+
+
+End of report.
