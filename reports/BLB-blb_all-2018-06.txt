@@ -1,0 +1,222 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 692
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 64
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 15
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 3
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-29 ; Times: 6
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ohio state university museum of biological diversity" ; Times: 2
+	Query: "saxicola insignis" ; Times: 3
+	Query: "stateprovince:&#34;Espirito Santo&#34; institutioncode:BLB" ; Times: 1
+	Query: "distance(location,geopoint(39.2400334086807,-86.5684060061948))&lt;11509" ; Times: 1
+	Query: "naked mole rat" ; Times: 1
+	Query: "blue grouse (california)" ; Times: 1
+	Query: "nilgai" ; Times: 2
+	Query: "stateprovince:&#34;Minas Gerais&#34; institutioncode:BLB" ; Times: 1
+	Query: "sistrurus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "cienega creek county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; institutioncode:BLB" ; Times: 1
+	Query: "Wolves" ; Times: 1
+	Query: "blue footed boobie" ; Times: 1
+	Query: "frog northwest" ; Times: 1
+	Query: "Atlapetes rufinucha" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 2
+	Query: "lagopus leucura" ; Times: 3
+	Query: "turdus kessleri" ; Times: 2
+	Query: "sterna maximus" ; Times: 3
+	Query: "white-eyed vireo" ; Times: 4
+	Query: "Branta canadensis New York" ; Times: 1
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 1
+	Query: "puppy" ; Times: 1
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "Rana asiatica" ; Times: 1
+	Query: "Blue Footed Boobie" ; Times: 1
+	Query: "horses" ; Times: 1
+	Query: "genus:Colostethus country:&#34;Panama&#34;" ; Times: 1
+	Query: "rattle snake" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "ohio state university museum birds" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "Terpsiphone bourbonnensis" ; Times: 1
+	Query: "Ohio State University Museum birds" ; Times: 1
+	Query: "genus:melospiza family:emberizidae stateprovince:&#34;california&#34; hassex:1 distance(location,geopoint(34.207673013477304,-120.36116856162897))&lt;100000" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "distance(location,geopoint(39.334214047124,-86.568406210183))&lt;11612" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 1
+	Query: "honey bee" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 2
+	Query: "aedes aegypti" ; Times: 2
+	Query: "genus:Acris county:&#34;Richmond&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Diptera" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:rana stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Panthera leo	 100" ; Times: 3
+	Query: "sistrurus kentucky" ; Times: 2
+	Query: "Omni" ; Times: 1
+	Query: "specificepithet:henslowii genus:ammodramus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "locality:Ootacamund" ; Times: 1
+	Query: "Seal Fur" ; Times: 1
+	Query: "eupetomena" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "White-eyed Vireo" ; Times: 1
+	Query: "298785" ; Times: 1
+	Query: "Kingston Mountain" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "cerulean" ; Times: 1
+	Query: "blue grouse" ; Times: 2
+	Query: "wolves" ; Times: 3
+	Query: "amur leopard" ; Times: 1
+	Query: "meerkat" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 1169 download events in this period)
+Total number of records downloaded: 2487
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: United States ; Times: 58
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 15
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-07 ; Times: 21
+	Date: 2018-06-06 ; Times: 14
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-23 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 4
+	Query: "gray wolf" ; Times: 2
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "stateprovince:&#34;Espirito Santo&#34; institutioncode:BLB" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "barn owl" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "honey bee" ; Times: 2
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Blue Footed Boobie" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "beavers" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "spotted owl" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "nilgai" ; Times: 5
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "sterna maximus" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "common yellowthroat" ; Times: 1
+	Query: "genus:melospiza family:emberizidae stateprovince:&#34;california&#34; hassex:1 distance(location,geopoint(34.207673013477304,-120.36116856162897))&lt;100000" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "amur leopard" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+	Query: "alces alces" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "meerkat" ; Times: 1
+	Query: "Centrolene" ; Times: 2
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "Microtus" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Cochranella" ; Times: 2
+
+
+End of report.
