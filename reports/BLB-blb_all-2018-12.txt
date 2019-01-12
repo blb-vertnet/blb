@@ -1,0 +1,217 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 522
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 6
+	Country: United States ; Times: 67
+	Country: Netherlands ; Times: 7
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 4
+	Country: Mozambique ; Times: 1
+	Country: Serbia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 3
+	Date: 2018-12-16 ; Times: 4
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-12 ; Times: 7
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 19
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-25 ; Times: 10
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-29 ; Times: 5
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-05 ; Times: 10
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 6
+	Date: 2018-12-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Sitting bull Falls county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Psittacula echo" ; Times: 5
+	Query: "Poecile montanus" ; Times: 2
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Poecile lugubris" ; Times: 2
+	Query: "ebreccata" ; Times: 2
+	Query: "panthera  tigris" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:houstonensis" ; Times: 9
+	Query: "panthera leo" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 7
+	Query: "psittacula echo" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra institutioncode:BLB" ; Times: 1
+	Query: "Oreoscoptes montanus mappable:1" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 2
+	Query: "Coccyzus americanus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "aimophila fusca" ; Times: 1
+	Query: "specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "institutioncode:BLB" ; Times: 1
+	Query: "genus:Acanthidops" ; Times: 2
+	Query: "myiagra cyanoleuca" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "California spotted owl" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 3
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "specificepithet:rufitela genus:hyla" ; Times: 1
+	Query: "pacific loon" ; Times: 1
+	Query: "Canis rufus" ; Times: 11
+	Query: "specificepithet:montanus country:(China) stateprovince:Sichuan" ; Times: 2
+	Query: "Strix aluco" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 2
+	Query: "39747" ; Times: 1
+	Query: "Panthera leo	 100" ; Times: 1
+	Query: "(poecile montanus)" ; Times: 1
+	Query: "cienega creek arizona" ; Times: 2
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "specificepithet:granulosa genus:Cochranella" ; Times: 1
+	Query: "Alopochen aegyptiaca" ; Times: 3
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Dog Canyon road" ; Times: 1
+	Query: "california spotted owl" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "strix aluco" ; Times: 1
+	Query: "genus:Canis locality:Texas stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 809 download events in this period)
+Total number of records downloaded: 2253
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 15
+	Country: France ; Times: 1
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 8
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+	Date: 2018-12-20 ; Times: 6
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-25 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 5
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "ebreccata" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "psittacula echo" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Coccyzus americanus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Acanthidops" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+
+
+End of report.
