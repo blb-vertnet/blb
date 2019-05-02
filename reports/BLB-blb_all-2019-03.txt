@@ -1,0 +1,199 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 4550
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 38
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Hong Kong ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 103
+	Country: Argentina ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 6
+	Date: 2019-03-26 ; Times: 7
+	Date: 2019-03-25 ; Times: 7
+	Date: 2019-03-24 ; Times: 4
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-08 ; Times: 3
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-20 ; Times: 10
+	Date: 2019-03-05 ; Times: 13
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-06 ; Times: 52
+	Date: 2019-03-01 ; Times: 6
+	Date: 2019-03-29 ; Times: 12
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-30 ; Times: 5
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-18 ; Times: 8
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 7
+	Date: 2019-03-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudacris triseriata Ohio" ; Times: 1
+	Query: "acris crepitans crepitans vntype:observation" ; Times: 2
+	Query: "Smilisca phaeota mappable:1" ; Times: 1
+	Query: "geese" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "Poison Ivy" ; Times: 1
+	Query: "Psittacus erithacus mappable:1" ; Times: 1
+	Query: "genus:myadestes country:&#34;costa rica&#34;" ; Times: 2
+	Query: "ebird mappable:1" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 1
+	Query: "Lynx vntype:observation" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Cinclocerthia" ; Times: 1
+	Query: "Eclectus roratus mappable:1" ; Times: 3
+	Query: "Aedes aegypti mappable:1" ; Times: 1
+	Query: "Leptodactylus pentadactylus mappable:1" ; Times: 1
+	Query: "podiceps major" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "39771" ; Times: 1
+	Query: "institutioncode:BLB" ; Times: 4
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "locality:Mayne Island stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Ohio" ; Times: 4
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New York" ; Times: 4
+	Query: "Patagioenas subvinacea" ; Times: 2
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "locality:Sonora junction" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Michigan" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Massachusetts" ; Times: 4
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:Scinax specificepithet:boulengeri" ; Times: 1
+	Query: "order:Diptera" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New Hampshire" ; Times: 4
+	Query: "Cacatua galerita galerita" ; Times: 2
+	Query: "howler monkey costa rica" ; Times: 1
+	Query: "Troglodytes sissonii" ; Times: 1
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "glaucidium gnoma basisofrecord:HumanObservation" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "Atelopus zeteki" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oregon" ; Times: 4
+	Query: "Kentucky snake" ; Times: 4
+	Query: "Vanellus chilensis mappable:1" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "indigo bunting ohio" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "Catharus gracilirostris Costa Rica" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Maine" ; Times: 4
+	Query: "acris crepitans vntype:observation" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Illinois" ; Times: 4
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Wolves" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "eastern whip-poor-will" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "buteogallus anthracinus" ; Times: 2
+	Query: "Scinax staufferi mappable:1" ; Times: 1
+	Query: "Patagioenas cayennensis mappable:1" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 2
+	Query: "chrysomelidae" ; Times: 2
+	Query: "Pachymedusa dacnicolor mappable:1" ; Times: 1
+	Query: "vntype:observation (Spider) basisofrecord:HumanObservation hassex:1" ; Times: 1
+	Query: "Rollulus rouloul" ; Times: 1
+	Query: "bombus" ; Times: 2
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "Agalychnis callidryas mappable:1" ; Times: 1
+	Query: "Hyla gratiosa mappable:1" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 25
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 12
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "capuchin costa rica" ; Times: 1
+	Query: "Sitta magna" ; Times: 2
+	Query: "glaucidium gnoma vntype:observation" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1281 download events in this period)
+Total number of records downloaded: 44730
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-17 ; Times: 4
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus caurinus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "institutioncode:BLB" ; Times: 1
+	Query: "locality:Mayne Island stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+
+End of report.
