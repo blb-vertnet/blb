@@ -1,0 +1,219 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 1226
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Canada ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Portugal ; Times: 12
+	Country: Denmark ; Times: 11
+	Country: Turkey ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 76
+	Country: Ethiopia ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Argentina ; Times: 6
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 12
+	Date: 2019-05-31 ; Times: 10
+	Date: 2019-05-08 ; Times: 7
+	Date: 2019-05-07 ; Times: 9
+	Date: 2019-05-06 ; Times: 14
+	Date: 2019-05-05 ; Times: 6
+	Date: 2019-05-04 ; Times: 2
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-02 ; Times: 3
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 4
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 6
+	Date: 2019-05-20 ; Times: 18
+	Date: 2019-05-23 ; Times: 11
+	Date: 2019-05-22 ; Times: 13
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-12 ; Times: 2
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 5
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vermivora bachmanii" ; Times: 2
+	Query: "hyla picadoi" ; Times: 4
+	Query: "Tetrao urogallus" ; Times: 9
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Marbled murrelet" ; Times: 6
+	Query: "Pycnonotus jocosus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "Gallinula chloropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "tigrisoma mexicanum" ; Times: 4
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:caeruleus genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "Penelope obscura mappable:1" ; Times: 5
+	Query: "Hyla picadoi" ; Times: 1
+	Query: "Cuculus canorus year &gt; 1990 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 12
+	Query: "Strix occidentalis year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "occidental college" ; Times: 4
+	Query: "Laterallus jamaicensis mappable:1" ; Times: 1
+	Query: "hippopotamus" ; Times: 2
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;British Columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 3
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phylloscartes country:&#34;brazil&#34;" ; Times: 2
+	Query: "Callipepla squamata year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "Lithobates catesbeianus rana" ; Times: 2
+	Query: "Peucedramus taeniatus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "genus:aedes" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "locality:Occidental College basisofrecord:HumanObservation" ; Times: 2
+	Query: "specificepithet:venatoria genus:Heteropoda" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 1
+	Query: "Diceros bicornis mappable:1" ; Times: 1
+	Query: "spixi" ; Times: 1
+	Query: "Centrocercus minimus" ; Times: 6
+	Query: "specificepithet:pusilla genus:Cardellina stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 1
+	Query: "specificepithet:tolmiei genus:Geothlypis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 1
+	Query: "MBML" ; Times: 1
+	Query: "Leucosticte tephrocotis stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 2
+	Query: "specificepithet:erythaca genus:Pyrrhula" ; Times: 1
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Heteropoda" ; Times: 1
+	Query: "gbifdatasetid:f11db245-3f9f-4fc6-a0cc-12b4124d081b" ; Times: 1
+	Query: "Thryothorus ludovicianus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Phainopepla nitens year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 2
+	Query: "gilded flicker" ; Times: 2
+	Query: "dicerorhinus" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis mappable:1" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "Leontopithecus rosalia mappable:1" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 2
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "anaxyrus houstonensis" ; Times: 3
+	Query: "Pyrocephalus rubinus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "lithobates catesbeianus rana" ; Times: 1
+	Query: "Temnurus temnurus" ; Times: 5
+	Query: "specificepithet:rutilus genus:Pheugopedius" ; Times: 1
+	Query: "Polioptila caerulea year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "penelope obscura" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "mimus gilvus" ; Times: 2
+	Query: "Hylobates lar" ; Times: 3
+	Query: "tetraogallus" ; Times: 1
+	Query: "emberiza cia" ; Times: 1
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura locality:Occidental College" ; Times: 1
+	Query: "genus:heteropoda" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "specificepithet:erythrocephala genus:Pyrrhula" ; Times: 1
+	Query: "cyclarhis gujanensis" ; Times: 2
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 2
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 940 download events in this period)
+Total number of records downloaded: 485
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 3
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 3
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-02 ; Times: 4
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:rutilus genus:Pheugopedius" ; Times: 1
+	Query: "specificepithet:celata genus:Oreothlypis stateprovince:&#34;British Columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "myadestes unicolor" ; Times: 2
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Leucosticte tephrocotis stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 1
+	Query: "specificepithet:erythaca genus:Pyrrhula" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "gilded flicker" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "ramphastos sulfuratus" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:erythrocephala genus:Pyrrhula" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;british columbia&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+
+
+End of report.
