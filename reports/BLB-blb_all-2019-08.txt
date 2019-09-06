@@ -1,0 +1,541 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 581
+Number of records retrieved in searches: 8803
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Canada ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 23
+	Country: Finland ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 71
+	Country: Austria ; Times: 45
+	Country: Peru ; Times: 181
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 227
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 6
+	Date: 2019-08-28 ; Times: 6
+	Date: 2019-08-08 ; Times: 25
+	Date: 2019-08-29 ; Times: 13
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 76
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 8
+	Date: 2019-08-26 ; Times: 17
+	Date: 2019-08-09 ; Times: 9
+	Date: 2019-08-24 ; Times: 7
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 11
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 16
+	Date: 2019-08-21 ; Times: 7
+	Date: 2019-08-16 ; Times: 66
+	Date: 2019-08-15 ; Times: 43
+	Date: 2019-08-14 ; Times: 190
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-30 ; Times: 32
+	Date: 2019-08-19 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta punctata mappable:1" ; Times: 2
+	Query: "douglas squirrel" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Mniotilta AND Island NOT Canada NOT Michigan" ; Times: 1
+	Query: "genus:parus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:phylloscopus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Anthropoides virgo" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Synallaxis azarae" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "specificepithet:marginatus genus:microcerculus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "vntype:observation locality:nayarit" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 1
+	Query: "Gygis alba" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Amazilia violiceps" ; Times: 1
+	Query: "specificepithet:irrorata genus:Phoebastria" ; Times: 2
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "Mimus parvulus" ; Times: 1
+	Query: "genus:poecile class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "Synallaxis cinnamomea" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Turdus fumigatus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "formicidae" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "genus:Ptilinopus  specificepithet:melanospilus" ; Times: 1
+	Query: "Milvago chimachima" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 2
+	Query: "Ovibos" ; Times: 1
+	Query: "Pionus fuscus" ; Times: 1
+	Query: "Onychoprion anaethetus" ; Times: 2
+	Query: "Paroreomyza montana" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Petrochelidon pyrrhonota stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Melanerpes flavifrons" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 6
+	Query: "Bos taurus L." ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 1
+	Query: "Chroicocephalus philadelphia" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "Formicarius rufipectus" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 2
+	Query: "Centrolene prosoblepon" ; Times: 1
+	Query: "Ramphastos swainsonii" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 1
+	Query: "Chaetura vauxi stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "genus:motacilla class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "Amazilia rutila" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Turdus albicollis" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "Zenaida macroura nebraska" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "genus:phasianus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Scinax boulengeri mappable:1" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "Penelope obscura" ; Times: 1
+	Query: "Crax alector" ; Times: 1
+	Query: "Buteo galapagoensis" ; Times: 2
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "Hippopotamus amphibius vntype:observation" ; Times: 1
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "specificepithet:laysanensis genus:Anas" ; Times: 3
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "Turdus obsoletus" ; Times: 1
+	Query: "Serpophaga cinerea" ; Times: 1
+	Query: "class:aves stateprovince:&#34;sichuan&#34; catalognumber:BLB17788 institutioncode:BLB" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:BLB" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 4
+	Query: "Cebus apella mappable:1" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Cochranella spinosa" ; Times: 1
+	Query: "Hirundo rustica stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:prunella class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "amazona auropalliata" ; Times: 12
+	Query: "Setophaga americana" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 2
+	Query: "Lonchura malacca" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 6
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 1
+	Query: "troglodytes formosus" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Sclateria naevia" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "Bolborhynchus orbygnesius" ; Times: 1
+	Query: "Thamnophilus doliatus" ; Times: 2
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "family:phocidae order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Turdus flavipes" ; Times: 1
+	Query: "Euphonia rufiventris" ; Times: 1
+	Query: "Ectobiidae" ; Times: 2
+	Query: "Vestiaria coccinea" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Brotogeris jugularis" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 1
+	Query: "Cimbex americana" ; Times: 2
+	Query: "genus:cettia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 2
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "lonchura cantans" ; Times: 7
+	Query: "Sephanoides fernandensis" ; Times: 1
+	Query: "genus:aegithalos class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Tringa semipalmata" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Gallus gallus domesticus" ; Times: 1
+	Query: "genus:Lichenostomus specificepithet:melanops" ; Times: 1
+	Query: "Elaenia mesoleuca" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 2
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "Ramphastos ambiguus" ; Times: 2
+	Query: "Cochranella granulosa" ; Times: 1
+	Query: "Myrmeciza longipes" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Thryothorus griseus" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "Hylopezus fulviventris" ; Times: 1
+	Query: "Lepidocolaptes falcinellus" ; Times: 1
+	Query: "Sephanoides sephaniodes" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Thamnophilus atrinucha" ; Times: 1
+	Query: "genus:phoenicurus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:certhia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Motacilla alba" ; Times: 1
+	Query: "Leptodactylus poecilochilus mappable:1" ; Times: 1
+	Query: "Centrocercus minimus" ; Times: 22
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Spinus xanthogastrus" ; Times: 1
+	Query: "specificepithet:auropalliata genus:Amazona" ; Times: 3
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 1
+	Query: "Ramphastos tucanus" ; Times: 2
+	Query: "Dendrocolaptes platyrostris" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "Piranga flava" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "genus:emberiza class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Melanospiza richardsoni" ; Times: 2
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Polioptila californica" ; Times: 4
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Cettia fortipes" ; Times: 1
+	Query: "Xiphorhynchus lachrymosus" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Dicrurus ludwigii" ; Times: 1
+	Query: "class:aves stateprovince:&#34;sichuan&#34; catalognumber:BLB17697 institutioncode:BLB" ; Times: 1
+	Query: "Quiscalus lugubris" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "Cerambycidae" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Tringa incana" ; Times: 1
+	Query: "Cyanoliseus patagonus" ; Times: 1
+	Query: "genus:dendrocopos class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "puffinus pacificus year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Atlapetes rufinucha" ; Times: 1
+	Query: "Euphonia violacea" ; Times: 1
+	Query: "Trogon collaris" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "genus:loxia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:saxicola class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Leptasthenura setaria" ; Times: 1
+	Query: "Amazilia tzacatl" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "lepidoptera" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 2
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "genus:serinus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Actitis macularius" ; Times: 2
+	Query: "Pyrrhula pyrrhula" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 29
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "genus:troglodytes class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "Hexapoda" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "specificepithet:browni class:aves" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "co2" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "genus:sitta class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 3
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Calypte costae AND Island" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "genus:garrulus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:dryocopus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Amazona versicolor" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+	Query: "genus:regulus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Leucosarcia melanoleuca" ; Times: 1
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "Patagioenas nigrirostris" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "specificepithet:kessleri class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "specificepithet:japonensis genus:Grus" ; Times: 2
+	Query: "genus:carpodacus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Panthera leo vntype:observation" ; Times: 1
+	Query: "Rana catesbeianus mappable:1" ; Times: 2
+	Query: "Turdus grayi" ; Times: 1
+	Query: "Mniotilta AND Island NOT Canada" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 23
+	Query: "Synallaxis spixi" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "genus:Lonchura  specificepithet:punctulata" ; Times: 1
+	Query: "Gracula" ; Times: 2
+	Query: "genus:anthus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Spinus magellanicus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Coccyzus erythropthalmus" ; Times: 1
+	Query: "Fregata minor" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Oena capensis" ; Times: 1
+	Query: "genus:lophophanes class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Patagioenas subvinacea" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 2
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "Geothlypis aequinoctialis" ; Times: 1
+	Query: "Pterodroma longirostris" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "Phaethon rubricauda" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "genus:oriolus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:pyrrhula class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 3
+	Query: "Morus serrator" ; Times: 1
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "genus:pica class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 9
+	Query: "Ovis aries" ; Times: 1
+	Query: "genus:luscinia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Glaucis aeneus" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:BLB" ; Times: 2
+	Query: "Tapirella bairdii" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "specificepithet:alba genus:Cacatua" ; Times: 2
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Momotus bahamensis" ; Times: 1
+	Query: "Elaenia frantzii" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Trogon violaceus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Bolborhynchus lineola" ; Times: 1
+	Query: "Syrigma sibilatrix" ; Times: 1
+	Query: "class:aves stateprovince:&#34;sichuan&#34; catalognumber:BLB17790 institutioncode:BLB" ; Times: 1
+	Query: "Camptostoma obsoletum" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "Ploceus velatus" ; Times: 1
+	Query: "Dendrocincla fuliginosa" ; Times: 1
+	Query: "Plegadis falcinellus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Pterodroma externa" ; Times: 1
+	Query: "Lepidocolaptes souleyetii" ; Times: 1
+	Query: "Tyrannus melancholicus" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 8
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Theristicus caudatus" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "Phaethornis guy" ; Times: 1
+	Query: "Cacicus chrysopterus" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 1
+	Query: "Grantiella picta" ; Times: 1
+	Query: "Anthus richardi" ; Times: 1
+	Query: "Sula granti" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 1
+	Query: "specificepithet:solstitialis genus:Aratinga" ; Times: 2
+	Query: "genus:cuculus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Hylopezus dives" ; Times: 1
+	Query: "genus:nucifraga class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:periparus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 1
+	Query: "Anous minutus" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "Patagioenas cayennensis" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Lophotriccus pileatus" ; Times: 1
+	Query: "Laterallus albigularis" ; Times: 1
+	Query: "Heliodoxa jacula" ; Times: 1
+	Query: "Vireo bellii" ; Times: 3
+	Query: "Canis lupus vntype:observation" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Columbina squammata" ; Times: 1
+	Query: "genus:corvus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "locality:Roaring River State Park" ; Times: 1
+	Query: "Oporornis agilis" ; Times: 1
+	Query: "Lonchura oryzivora" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Pterodroma arminjoniana" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 12
+	Query: "Campylopterus excellens" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Pteroglossus aracari" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Lonchura griseicapilla" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "Cicadellidae" ; Times: 3
+	Query: "Cacicus uropygialis" ; Times: 1
+	Query: "specificepithet:bicknelli genus:Catharus" ; Times: 1
+	Query: "Spinus olivaceus" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Chauna chavaria" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 1034 download events in this period)
+Total number of records downloaded: 1068
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 36
+	Country: Austria ; Times: 38
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-16 ; Times: 39
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-14 ; Times: 8
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 7
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:certhia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "class:aves stateprovince:&#34;sichuan&#34; catalognumber:BLB17788 institutioncode:BLB" ; Times: 1
+	Query: "genus:cuculus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "genus:luscinia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Chaetura vauxi stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:parus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:periparus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:phylloscopus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "genus:pyrrhula class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+	Query: "genus:motacilla class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Hirundo rustica stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "genus:pica class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "specificepithet:kessleri class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:prunella class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:anthus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 2
+	Query: "genus:dendrocopos class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 1
+	Query: "genus:carpodacus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "junco hyemalis" ; Times: 1
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:saxicola class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "genus:phasianus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:aegithalos class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Petrochelidon pyrrhonota stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "genus:regulus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Diglossa" ; Times: 1
+	Query: "specificepithet:canorus genus:(anaxyrus OR bufo) mappable:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 5
+	Query: "genus:emberiza class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "genus:sitta class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Gracula" ; Times: 1
+	Query: "genus:poecile class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:garrulus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:dryocopus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:nucifraga class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:lophophanes class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:serinus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:oriolus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 2
+	Query: "Anser albifrons" ; Times: 1
+	Query: "class:aves stateprovince:&#34;sichuan&#34; catalognumber:BLB17697 institutioncode:BLB" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "genus:cettia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "genus:loxia class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:corvus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:troglodytes class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "genus:phoenicurus class:aves stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "Mountain Quail" ; Times: 1
+	Query: "class:aves stateprovince:&#34;sichuan&#34; catalognumber:BLB17790 institutioncode:BLB" ; Times: 1
+
+
+End of report.
