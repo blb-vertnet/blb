@@ -1,0 +1,230 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 198
+Number of records retrieved in searches: 3518
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 31
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 4
+	Country: Cuba ; Times: 3
+	Country: United States ; Times: 133
+	Country: Austria ; Times: 1
+	Country: Rwanda ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 2
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 3
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 8
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 19
+	Date: 2019-09-02 ; Times: 7
+	Date: 2019-09-01 ; Times: 4
+	Date: 2019-09-06 ; Times: 53
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 24
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-22 ; Times: 3
+	Date: 2019-09-25 ; Times: 8
+	Date: 2019-09-24 ; Times: 21
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 8
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Canis latrans basisofrecord:HumanObservation" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Hyla minuta mappable:1" ; Times: 2
+	Query: "Homo sapiens" ; Times: 3
+	Query: "Alouatta palliata mappable:1" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:picta genus:Grantiella" ; Times: 2
+	Query: "Aphelocoma Cave Creek Canyon" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 18
+	Query: "Cebus apella mappable:1" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 2
+	Query: "locality:Aptos county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "locality:Balboa Park" ; Times: 1
+	Query: "ohio state university amphibia maryland" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 1
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "americanus fairfax" ; Times: 1
+	Query: "Lesbia victoria" ; Times: 1
+	Query: "panthera leo" ; Times: 3
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "aedes" ; Times: 1
+	Query: "Bombus bimaculatus 2016" ; Times: 2
+	Query: "claravis mondetoura" ; Times: 5
+	Query: "Bombus bimaculatus 2015" ; Times: 2
+	Query: "setaria" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "Turdus plumbeus" ; Times: 3
+	Query: "elephants" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "poecile rufescens year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "peregrin falcon" ; Times: 1
+	Query: "nippon" ; Times: 1
+	Query: "specificepithet:frenatus genus:hemidactylus country:&#34;Panamá&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus 1977" ; Times: 1
+	Query: "country:&#34;Chile&#34; basisofrecord:HumanObservation" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 24
+	Query: "genus:Didelphis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Lagothrix lagotricha mappable:1" ; Times: 2
+	Query: "atelopus chiriquiensis" ; Times: 2
+	Query: "Panthera onca" ; Times: 10
+	Query: "Alouatta pigra mappable:1" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "specificepithet:frenatus genus:Hemidactylus country:&#34;Panamá&#34;" ; Times: 1
+	Query: "Loxigilla richardsoni" ; Times: 1
+	Query: "Atelopus varius Panama" ; Times: 2
+	Query: "Eleutherodactylus hylaeformis" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 2
+	Query: "Phaethornis nigrirostris" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "genus:vireo stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:Todiramphus macleayii country:New Guinea" ; Times: 2
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "order:Artiodactyla institutioncode:BLB" ; Times: 2
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 16
+	Query: "laterallus albigularis" ; Times: 1
+	Query: "apis mellifera" ; Times: 2
+	Query: "Leontopithecus rosalia mappable:1" ; Times: 7
+	Query: "Spinus olivaceus" ; Times: 1
+	Query: "genus:Buteogallus NOT (skin)" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "specificepithet:flavescens genus:Atelopus" ; Times: 1
+	Query: "genus:Stephanophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aphelocoma californica Mendocino County" ; Times: 1
+	Query: "Bombus impatiens 2016" ; Times: 2
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "Bombus impatiens 2015" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+	Query: "Aphantochroa cirrhochloris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1073 download events in this period)
+Total number of records downloaded: 1485
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Mexico ; Times: 13
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 30
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-10 ; Times: 11
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 5
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "centrolene" ; Times: 2
+	Query: "Lesbia" ; Times: 1
+	Query: "Lesbia victoria" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Basileuterus tristriatus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 1
+	Query: "Turdus nudigenis" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Colibri serrirostris" ; Times: 1
+	Query: "genus:vireo stateprovince:&#34;sichuan&#34; institutioncode:BLB" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "nelsoni (Bufo OR Anaxyrus)" ; Times: 2
+	Query: "Spinus olivaceus" ; Times: 1
+	Query: "Phaethornis nigrirostris" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Aphantochroa cirrhochloris" ; Times: 1
+
+
+End of report.
