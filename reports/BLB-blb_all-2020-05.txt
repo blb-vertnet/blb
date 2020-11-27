@@ -1,0 +1,169 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 882
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United States ; Times: 45
+	Country: Israel ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Brazil ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 5
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 9
+	Date: 2020-05-26 ; Times: 6
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-06 ; Times: 11
+	Date: 2020-05-01 ; Times: 7
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-07 ; Times: 8
+	Date: 2020-05-11 ; Times: 5
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-15 ; Times: 6
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 2
+	Query: "16881" ; Times: 1
+	Query: "buteo galapagoensis" ; Times: 3
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "country:&#34;China&#34; recordedby:McCallum institutioncode:BLB" ; Times: 1
+	Query: "year &gt;= 1989 year &lt;= 1989 institutioncode:BLB" ; Times: 2
+	Query: "quiscalus minnesota" ; Times: 2
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:male" ; Times: 1
+	Query: "genus:colinus stateprovince:&#34;tennessee&#34;" ; Times: 8
+	Query: "country:&#34;China&#34; institutioncode:BLB" ; Times: 1
+	Query: "309927" ; Times: 1
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "Zenaida macroura ws OR wingspan OR wing+span" ; Times: 7
+	Query: "326515" ; Times: 1
+	Query: "year &gt;= 1991 year &lt;= 1991 month &gt;= 5 month &lt;= 5 institutioncode:BLB" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:female" ; Times: 1
+	Query: "quiscalus lugubris" ; Times: 2
+	Query: "specificepithet:caerulescens genus:Thamnophilus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Icterus laudabilis" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "recordedby:McCallum institutioncode:BLB" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "Museum of Biological Diversity" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo lifestage:adult sex:male" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:male" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "genus:catharus recordedby:bicknell" ; Times: 1
+	Query: "309928" ; Times: 1
+	Query: "blue-footed boobie" ; Times: 1
+	Query: "specificepithet:Insignis genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "crotalus powell" ; Times: 1
+	Query: "Texas Limnothlypis swainsonii" ; Times: 1
+	Query: "catalognumber:BLB22390 institutioncode:BLB" ; Times: 2
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "sistrurus ohio" ; Times: 1
+	Query: "Texas Limnodromus scolopaceus" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "grackle minnesota" ; Times: 2
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "vntype:observation county:&#34;Roanoke&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "apis mellifera" ; Times: 1
+	Query: "Texas Dendrocygna" ; Times: 2
+	Query: "common grackle minnesota" ; Times: 1
+	Query: "light-vented bulbul" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1106 download events in this period)
+Total number of records downloaded: 2780
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Birds Texas" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "recordedby:McCallum institutioncode:BLB" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "pipilo nebraska" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "year &gt;= 1991 year &lt;= 1991 month &gt;= 5 month &lt;= 5 institutioncode:BLB" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "country:&#34;China&#34; institutioncode:BLB" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+	Query: "country:&#34;China&#34; recordedby:McCallum institutioncode:BLB" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
