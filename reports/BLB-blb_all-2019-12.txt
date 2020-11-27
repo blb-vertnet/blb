@@ -1,0 +1,155 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 612
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 6
+	Country: United States ; Times: 45
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 19
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 13
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-21 ; Times: 3
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-12 ; Times: 3
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-30 ; Times: 12
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-06 ; Times: 6
+	Date: 2019-12-10 ; Times: 8
+	Date: 2019-12-11 ; Times: 6
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 23
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:obsoletus genus:crypturellus family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "specificepithet:plumbea genus:Diglossa mappable:1" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:leucoblepharus genus:Myiothlypis mappable:1" ; Times: 1
+	Query: "song sparrow stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:rubiginosus genus:Margarornis mappable:1" ; Times: 1
+	Query: "specificepithet:miniatus genus:Myioborus mappable:1" ; Times: 1
+	Query: "specificepithet:torquatus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Polioptila californica" ; Times: 2
+	Query: "specificepithet:flavescens genus:Atelopus" ; Times: 2
+	Query: "specificepithet:rufifrons genus:Basileuterus mappable:1" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "extended wings" ; Times: 4
+	Query: "specificepithet:tristriatus genus:Basileuterus mappable:1" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "Ivory Billed Woodpecker" ; Times: 1
+	Query: "Thryomanes bewickii sonoma california" ; Times: 1
+	Query: "vireo sclateri" ; Times: 4
+	Query: "bumblebee" ; Times: 1
+	Query: "specificepithet:setaria genus:Leptasthenura mappable:1" ; Times: 1
+	Query: "specificepithet:canorus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:mocinno genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "Sus scrofa domesticus" ; Times: 1
+	Query: "dicerorhinus sumatrensis" ; Times: 1
+	Query: "Vireo sclateri" ; Times: 2
+	Query: "Sturnella magna year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "Carpodectes nitidus" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "specificepithet:pileatus genus:Chlorospingus mappable:1" ; Times: 1
+	Query: "specificepithet:chiriquiensis genus:Atelopus" ; Times: 2
+	Query: "specificepithet:zeteki genus:Atelopus" ; Times: 2
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "specificepithet:melanogenys genus:Basileuterus mappable:1" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "dicerorhinus" ; Times: 1
+	Query: "specificepithet:houstonensis genus:Anaxyrus" ; Times: 2
+	Query: "Calamus calamus mappable:1" ; Times: 4
+	Query: "specificepithet:rufus genus:Furnarius mappable:1" ; Times: 1
+	Query: "specificepithet:quercicus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:portoricensis genus:melanerpes" ; Times: 3
+	Query: "specificepithet:minutus genus:Xenops mappable:1" ; Times: 1
+	Query: "vntype:observation stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "boreal owl" ; Times: 1
+	Query: "family:troglodytidae (2382)" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria mappable:1" ; Times: 1
+	Query: "specificepithet:fulvicauda genus:Myiothlypis mappable:1" ; Times: 1
+	Query: "homo sapiens" ; Times: 4
+	Query: "canis rufus" ; Times: 4
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "Heterocephalus glaber" ; Times: 4
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:observation county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "melanerpes portoricensis" ; Times: 9
+	Query: "Zosterops japonicus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 596 download events in this period)
+Total number of records downloaded: 1432
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 10
+	Country: Paraguay ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "spinus tristis tristis" ; Times: 1
+
+
+End of report.
