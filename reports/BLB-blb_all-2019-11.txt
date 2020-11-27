@@ -1,0 +1,242 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 355
+Number of records retrieved in searches: 1655
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 7
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 46
+	Country: Finland ; Times: 3
+	Country: India ; Times: 4
+	Country: United States ; Times: 278
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 11
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-15 ; Times: 21
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-17 ; Times: 3
+	Date: 2019-11-16 ; Times: 46
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-10 ; Times: 8
+	Date: 2019-11-13 ; Times: 10
+	Date: 2019-11-12 ; Times: 7
+	Date: 2019-11-08 ; Times: 36
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-20 ; Times: 5
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-09 ; Times: 29
+	Date: 2019-11-06 ; Times: 32
+	Date: 2019-11-07 ; Times: 83
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-02 ; Times: 4
+	Date: 2019-11-03 ; Times: 35
+	Date: 2019-11-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 1
+	Query: "order:Primates basisofrecord:HumanObservation" ; Times: 1
+	Query: "specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "specificepithet:Kirtlandii genus:setophaga country:&#34;United States&#34;" ; Times: 1
+	Query: "Caprimulgus carolinensis 1975" ; Times: 1
+	Query: "Polioptila californica californica 2016" ; Times: 4
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "Coccyzus americanus 1978" ; Times: 4
+	Query: "junco vulcani" ; Times: 1
+	Query: "Myioborus torquatus" ; Times: 1
+	Query: "northern mallard" ; Times: 1
+	Query: "Elephas maximus" ; Times: 10
+	Query: "Centrocercus minimus 1998" ; Times: 9
+	Query: "Centrocercus minimus 1999" ; Times: 9
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Bombus fervidus mappable:1" ; Times: 1
+	Query: "passerina cyanea hybrid" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "yellow rail" ; Times: 3
+	Query: "Urocitellus beldingi" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "locality:new hanover" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "Amur Leopard" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 9
+	Query: "Anas diazi" ; Times: 1
+	Query: "Aleutian tern" ; Times: 2
+	Query: "Bombus pensylvanicus mappable:1" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Rhino" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "Dicerorhinus sumatrensis" ; Times: 2
+	Query: "Coccyzus americanus 1998" ; Times: 4
+	Query: "Coccyzus americanus 1999" ; Times: 4
+	Query: "Meerkats" ; Times: 1
+	Query: "genus:Passer country:&#34;China&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "bombus terricola" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "large-billed leaf warbler" ; Times: 1
+	Query: "bombus fervidus" ; Times: 1
+	Query: "Mycteria americana 1994" ; Times: 4
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "Sistrurus catenatus 2015" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Coccyzus americanus 1981" ; Times: 4
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "Coccyzus americanus 1982" ; Times: 4
+	Query: "Coccyzus americanus 1985" ; Times: 4
+	Query: "Coccyzus americanus 1987" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "bombus" ; Times: 1
+	Query: "class:aves locality:bagabag" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "bagabag" ; Times: 1
+	Query: "Power AND Cruz Island" ; Times: 1
+	Query: "Sistrurus catenatus 1988" ; Times: 4
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "Coccyzus americanus 1975" ; Times: 4
+	Query: "Coccyzus americanus 1976" ; Times: 4
+	Query: "Coccyzus americanus 1977" ; Times: 4
+	Query: "Coccyzus americanus 1972" ; Times: 4
+	Query: "Coccyzus americanus 1973" ; Times: 4
+	Query: "Phylloscopus magnirostris" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 8
+	Query: "Aphelocoma coerulescens 2015" ; Times: 4
+	Query: "Aphelocoma coerulescens 1977" ; Times: 6
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Brachyramphus marmoratus 2014" ; Times: 5
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "Brachyramphus marmoratus 1997" ; Times: 5
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "Aphelocoma coerulescens 1978" ; Times: 6
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "panterpe insignis" ; Times: 3
+	Query: "Eolophus roseicapilla" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "Coccyzus americanus 2002" ; Times: 4
+	Query: "Sistrurus miliarius streckeri" ; Times: 2
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "elephas maximus" ; Times: 2
+	Query: "pavo cristatus" ; Times: 2
+	Query: "varanus karkar" ; Times: 1
+	Query: "Power AND Barbara Island" ; Times: 1
+	Query: "leptodactylus labialis" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "vntype:observation class:Reptilia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "Brachyramphus marmoratus 1990" ; Times: 5
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "Aphelocoma coerulescens 1991" ; Times: 6
+	Query: "Elephant Maximus" ; Times: 3
+	Query: "Aphelocoma coerulescens 1996" ; Times: 6
+	Query: "sephanoides sephaniodes" ; Times: 1
+	Query: "Polioptila californica californica 1988" ; Times: 4
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Bombus terricola mappable:1" ; Times: 1
+	Query: "bird body size" ; Times: 1
+	Query: "white headed hawk" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "bombus pensylvanicus" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "Centrocercus minimus 2015" ; Times: 9
+	Query: "genus:amandava class:aves year &gt;= 1980" ; Times: 2
+	Query: "Icterus bullockii iowa" ; Times: 1
+	Query: "whooping crane" ; Times: 2
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Centrocercus minimus 2016" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1367 download events in this period)
+Total number of records downloaded: 1359
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 3
+	Date: 2019-11-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidóptera" ; Times: 1
+	Query: "sephanoides sephaniodes" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "whooping crane" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Odonata" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+
+
+End of report.
