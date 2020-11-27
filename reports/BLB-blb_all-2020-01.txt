@@ -1,0 +1,233 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 965
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Cuba ; Times: 12
+	Country: India ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 23
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Guadeloupe ; Times: 1
+	Country: United States ; Times: 96
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-09 ; Times: 13
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-02 ; Times: 5
+	Date: 2020-01-01 ; Times: 2
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-21 ; Times: 7
+	Date: 2020-01-20 ; Times: 15
+	Date: 2020-01-23 ; Times: 23
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-27 ; Times: 6
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-18 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 14
+	Date: 2020-01-15 ; Times: 5
+	Date: 2020-01-16 ; Times: 6
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 10
+	Date: 2020-01-13 ; Times: 11
+	Date: 2020-01-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pratti genus:Colostethus" ; Times: 1
+	Query: "county:&#34;Lawrence&#34; stateprovince:&#34;Ohio&#34;" ; Times: 5
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "specificepithet:virgatipes genus:Rana" ; Times: 1
+	Query: "Acinonyx jubatus mappable:1" ; Times: 4
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "&#34;lynx lynx&#34;" ; Times: 1
+	Query: "specificepithet:fleischmanni genus:Hyalinobatrachium" ; Times: 1
+	Query: "colostethus pratti" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 3
+	Query: "specificepithet:henslowii class:aves stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "Panthera onca" ; Times: 11
+	Query: "specificepithet:callidryas genus:Agalychnis" ; Times: 1
+	Query: "Phacochoerus aethiopicus mappable:1" ; Times: 2
+	Query: "mexicanus minnesota" ; Times: 1
+	Query: "Quiscalus palustris" ; Times: 1
+	Query: "class:Aves locality:Idyllwild county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 12
+	Query: "Leopard is" ; Times: 1
+	Query: "specificepithet:granulosa genus:Cochranella" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 1
+	Query: "humidity" ; Times: 1
+	Query: "Sitta neglecta" ; Times: 1
+	Query: "melanerpes portoricensis" ; Times: 4
+	Query: "canis lupus bailey" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 1
+	Query: "specificepithet:flavescens genus:Atelopus" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 2
+	Query: "specificepithet:chiriquiensis genus:Atelopus" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "Cananéia" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "specificepithet:serrirostris" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana" ; Times: 1
+	Query: "Black-throated Thrush" ; Times: 1
+	Query: "(movement)" ; Times: 1
+	Query: "specificepithet:staufferi genus:Scinax" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 2
+	Query: "&#34;Tapirus bairdii&#34;" ; Times: 1
+	Query: "Crotalus horridus horridus ohio" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "Columba squamosa" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "Thryomanes AND Cruz Island" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "grus rubicunda" ; Times: 2
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "specificepithet:inguinalis genus:Colostethus" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "cape may warbler" ; Times: 1
+	Query: "hylobates" ; Times: 1
+	Query: "meerkats" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 3
+	Query: "homo sapiens" ; Times: 1
+	Query: "oceanicus Teleogryllus" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 4
+	Query: "tongue family:trochilidae" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 4
+	Query: "Thryomanes AND Cruz Island AND 1990" ; Times: 2
+	Query: "Eulampis jugularis" ; Times: 2
+	Query: "VACARIA" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "amur leopard" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Scinax" ; Times: 1
+	Query: "specificepithet:grylio genus:Rana" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 3
+	Query: "Cheetah" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta class:Aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Acris Blanchardi Indiana" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1992" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1991" ; Times: 2
+	Query: "vntype:observation specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1998" ; Times: 1
+	Query: "specificepithet:zeteki genus:Atelopus" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Crotalus (ohio)" ; Times: 2
+	Query: "Myadestes genibarbis" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "blackcap" ; Times: 1
+	Query: "carolina wren minnesota" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1987" ; Times: 1
+	Query: "culicidae" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1584 download events in this period)
+Total number of records downloaded: 2171
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 26
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-28 ; Times: 6
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 5
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 2
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
