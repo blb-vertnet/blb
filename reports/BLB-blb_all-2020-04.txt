@@ -1,0 +1,320 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 769
+Number of records retrieved in searches: 7210
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 687
+	Country: Germany ; Times: 5
+	Country: Ireland ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 44
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 223
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 284
+	Date: 2020-04-26 ; Times: 4
+	Date: 2020-04-01 ; Times: 12
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 94
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 8
+	Date: 2020-04-08 ; Times: 53
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-24 ; Times: 7
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 8
+	Date: 2020-04-15 ; Times: 5
+	Date: 2020-04-14 ; Times: 41
+	Date: 2020-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "Ovis aries" ; Times: 10
+	Query: "Quiscalus palustris" ; Times: 1
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Cygnus olor" ; Times: 10
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "&#34;george west&#34;" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "Vestiaria coccinea" ; Times: 3
+	Query: "Poecile montanus" ; Times: 4
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Anas strepera" ; Times: 13
+	Query: "Larus marinus" ; Times: 5
+	Query: "Tapirella bairdii" ; Times: 6
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "Amazilia violiceps" ; Times: 3
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "Arremon aurantiirostris" ; Times: 3
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Cervus nippon" ; Times: 4
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "vntype:observation genus:Rana" ; Times: 1
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Progne chalybea" ; Times: 7
+	Query: "a mellifera" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "F. domesticus" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT Remington" ; Times: 1
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT Remington NOT British" ; Times: 1
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Tachybaptus novaehollandiae" ; Times: 9
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "Paroreomyza montana" ; Times: 8
+	Query: "Dives dives" ; Times: 2
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Turdus nigrescens" ; Times: 9
+	Query: "bengal tiger" ; Times: 1
+	Query: "Culicicapa ceylonensis" ; Times: 4
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "co2" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande do Sul" ; Times: 3
+	Query: "genus:Colaptes class:aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "E. Nelson AND Guadalupe" ; Times: 1
+	Query: "Turdus iliacus" ; Times: 10
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Axis axis" ; Times: 2
+	Query: "Hatch Utah" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 15
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "Phylloscopus fuscatus" ; Times: 4
+	Query: "Climacteris picumnus" ; Times: 4
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Butorides striata" ; Times: 9
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Todus todus" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "Turtur tympanistria" ; Times: 6
+	Query: "Pericrocotus ethologus" ; Times: 4
+	Query: "Felis catus" ; Times: 4
+	Query: "Anser albifrons" ; Times: 10
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "Aix sponsa" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 2
+	Query: "40612" ; Times: 1
+	Query: "Motacilla alba" ; Times: 5
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "E. Nelson AND Guadalupe NOT Texas NOT Rosa NOT New" ; Times: 1
+	Query: "passerina (hybrid)" ; Times: 1
+	Query: "A. cristatella" ; Times: 6
+	Query: "Turdus philomelos" ; Times: 15
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "lurocalis" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Manis javanica" ; Times: 3
+	Query: "Amazilia rutila" ; Times: 7
+	Query: "Setophaga striata" ; Times: 5
+	Query: "Lagothrix lagotricha" ; Times: 4
+	Query: "Icterus auratus" ; Times: 1
+	Query: "Anas diazi" ; Times: 3
+	Query: "Pan paniscus" ; Times: 8
+	Query: "Equus caballus" ; Times: 2
+	Query: "Saltator similis" ; Times: 5
+	Query: "pangolin" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "Alouatta seniculus" ; Times: 6
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "36314" ; Times: 1
+	Query: "Sturnus tristis" ; Times: 2
+	Query: "Turdus kessleri" ; Times: 15
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "cerambycidae" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Lalage tricolor" ; Times: 2
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "maps 1058" ; Times: 1
+	Query: "Bos taurus" ; Times: 3
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "class:Aves stateprovince:Rio Grande" ; Times: 5
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "Aegithalos concinnus" ; Times: 4
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "specificepithet:quercicus genus:Anaxyrus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:major genus:Parus country:&#34;Germany&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Aegithalos fuliginosus" ; Times: 4
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Phylloscopus inornatus" ; Times: 7
+	Query: "40579" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "Columba livia" ; Times: 3
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "Thraupis episcopus" ; Times: 5
+	Query: "Aethopyga nipalensis India" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "specificepithet:major genus:Parus country:&#34;Germany&#34;" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Nelson AND Goldman AND Island" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Nelson AND San MArtin" ; Times: 1
+	Query: "Grus leucogeranus" ; Times: 4
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Homo sapiens" ; Times: 12
+	Query: "Zosterops (Hawaii)" ; Times: 1
+	Query: "Urocissa flavirostris India" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "Pycnonotus sinensis" ; Times: 7
+	Query: "pterodroma arminjoniana" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "Anthus hodgsoni" ; Times: 5
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "E. Nelson AND Guadalupe NOT Texas NOT Rosa" ; Times: 1
+	Query: "Passerina hybrid" ; Times: 3
+	Query: "26816" ; Times: 3
+	Query: "tapirus terrestris" ; Times: 1
+	Query: "pavo cristatus" ; Times: 7
+	Query: "rana catesbeiana louisiana" ; Times: 2
+	Query: "Grus antigone" ; Times: 5
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "Spizixos semitorques" ; Times: 7
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "Poecile atricapilla" ; Times: 4
+	Query: "Panthera tigris" ; Times: 7
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Haematopus ostralegus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1171 download events in this period)
+Total number of records downloaded: 1451
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 36
+	Country: Argentina ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 6
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 6
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-25 ; Times: 5
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "lurocalis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "Rallus limicola" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Puma concolor" ; Times: 7
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
