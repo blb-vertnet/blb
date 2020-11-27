@@ -1,0 +1,194 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 1107
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 7
+	Country: Honduras ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 59
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-02 ; Times: 3
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-07 ; Times: 8
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-09 ; Times: 6
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 8
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 8
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-01 ; Times: 6
+	Date: 2020-02-20 ; Times: 10
+	Date: 2020-02-21 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:blb" ; Times: 1
+	Query: "basisofrecord:HumanObservation distance(location,geopoint(32.99969252493433,-117.10146841486391))&lt;37947" ; Times: 1
+	Query: "Guyana (Ceiba)" ; Times: 1
+	Query: "vntype:observation basisofrecord:HumanObservation distance(location,geopoint(33.90655352548601,-117.19774382133596))&lt;38339" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "basisofrecord:HumanObservation distance(location,geopoint(32.99969252493433,-117.10146841486391))&lt;100000" ; Times: 1
+	Query: "video" ; Times: 1
+	Query: "frog calls" ; Times: 1
+	Query: "Yosemite toad" ; Times: 1
+	Query: "prosopis" ; Times: 1
+	Query: "gbifdatasetid:f11db245-3f9f-4fc6-a0cc-12b4124d081b" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 2
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "locality:Chicon" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "&#34;Panthera tigris&#34;" ; Times: 3
+	Query: "Campylopterus excellens" ; Times: 1
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "cheetah" ; Times: 2
+	Query: "steatornis" ; Times: 1
+	Query: "Alouatta seniculus mappable:1" ; Times: 2
+	Query: "&#34;acinonyx jubatus&#34;" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "Rana maculata" ; Times: 2
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:observation basisofrecord:HumanObservation distance(location,geopoint(34.07550197348941,-117.38736353307502))&lt;51377" ; Times: 3
+	Query: "basisofrecord:HumanObservation distance(location,geopoint(33.77025552955907,-117.24429068048891))&lt;29501" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 5
+	Query: "(Panthera tigris)" ; Times: 3
+	Query: "passer domesticus institutioncode:BLB" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "dog years" ; Times: 1
+	Query: "institutioncode:blb Melospiza" ; Times: 2
+	Query: "Formicidae" ; Times: 1
+	Query: "phoebastria irrorata" ; Times: 5
+	Query: "waved albatross" ; Times: 2
+	Query: "Panthera leo	 100" ; Times: 3
+	Query: "bluebirds" ; Times: 1
+	Query: "eburia" ; Times: 1
+	Query: "&#34;Lama glama&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "homo sapiens" ; Times: 6
+	Query: "Anas diazi" ; Times: 18
+	Query: "sistrurus stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "agalychnis dacnicolor" ; Times: 1
+	Query: "Banded Quail" ; Times: 1
+	Query: "formicidae" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1023 download events in this period)
+Total number of records downloaded: 1331
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-07 ; Times: 5
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "Cardellina rubra rubra" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 1
+	Query: "Rana maculata" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:observation basisofrecord:HumanObservation distance(location,geopoint(34.07550197348941,-117.38736353307502))&lt;51377" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "bushtit" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+
+
+End of report.
