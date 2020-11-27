@@ -1,0 +1,324 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 248
+Number of records retrieved in searches: 1680
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 177
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 35
+	Country: India ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-08 ; Times: 6
+	Date: 2019-10-21 ; Times: 5
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 27
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 14
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 18
+	Date: 2019-10-07 ; Times: 8
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 29
+	Date: 2019-10-22 ; Times: 51
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-12 ; Times: 7
+	Date: 2019-10-13 ; Times: 2
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 9
+	Date: 2019-10-16 ; Times: 7
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 9
+	Date: 2019-10-15 ; Times: 12
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "northern leopard frog" ; Times: 3
+	Query: "specificepithet:redivivum genus:toxostoma county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Polioptila californica californica 2015" ; Times: 8
+	Query: "manitoba hudsonicus poecile" ; Times: 1
+	Query: "shorebirds" ; Times: 1
+	Query: "institutioncode:BLB" ; Times: 1
+	Query: "Ardea herodias AND Cruz" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT Green NOT Hunter NOT McGregor NOT Anthony NOT Beck NOT Gaylord" ; Times: 1
+	Query: "Poecile carolinensis travis texas" ; Times: 1
+	Query: "white tiger" ; Times: 1
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "towhee minnesota" ; Times: 3
+	Query: "Centrocercus minimus 1999" ; Times: 1
+	Query: "canis anthus" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "Pandion AND Benito" ; Times: 2
+	Query: "Calypte costae AND Baja Island" ; Times: 1
+	Query: "llama" ; Times: 1
+	Query: "Callipepla AND Cruz Island" ; Times: 1
+	Query: "Priotelus temnurus" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 1
+	Query: "locality:New Hanover" ; Times: 4
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT Hendrickson NOT Hobbs NOT Green NOT Hunter NOT McGregor NOT Anthony NOT Beck NOT Gaylord" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "class:Aves locality:Tamil country:&#34;India&#34;" ; Times: 1
+	Query: "Poecile gambeli Colorado Boulder" ; Times: 1
+	Query: "Aleutian tern" ; Times: 1
+	Query: "Callipepla californica AND Cruz Island NOT Miller NOT Mailliard" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Farallon" ; Times: 1
+	Query: "Polioptila californica californica 2016" ; Times: 8
+	Query: "Bombus pensylvanicus 2016" ; Times: 1
+	Query: "Meleagris gallopavo AND Cruz Island" ; Times: 1
+	Query: "Bombus pensylvanicus 2015" ; Times: 1
+	Query: "saxicola insignis" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 2
+	Query: "Mimus AND Isla" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Loxodonta" ; Times: 1
+	Query: "country:&#34;Peru&#34; basisofrecord:HumanObservation" ; Times: 1
+	Query: "Zonotrichia vulcani" ; Times: 1
+	Query: "Bombus terricola 2016" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "Catherpes mexicanus AND Isla" ; Times: 1
+	Query: "Lasionycteris noctivigans" ; Times: 1
+	Query: "Coccyzus americanus 1998" ; Times: 1
+	Query: "Coccyzus americanus 1999" ; Times: 1
+	Query: "jaguar panthera" ; Times: 1
+	Query: "Bombus auricomus 2015" ; Times: 1
+	Query: "Bombus auricomus 2016" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT Hunter NOT McGregor NOT Anthony NOT Beck NOT Gaylord" ; Times: 1
+	Query: "Anaxyrus nelsoni" ; Times: 1
+	Query: "Bombus rufocinctus 2015" ; Times: 1
+	Query: "Bombus rufocinctus 2016" ; Times: 1
+	Query: "Poecile carolinensis West Virginia" ; Times: 1
+	Query: "Bombus terricola 2015" ; Times: 1
+	Query: "hymenoptera" ; Times: 1
+	Query: "class:Amphibia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND &#34;Cruz&#34;" ; Times: 2
+	Query: "griseus minnesota" ; Times: 1
+	Query: "Poecile gambeli Placer County" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Rana maculata mappable:1" ; Times: 2
+	Query: "Mycteria americana 1994" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "Coccyzus americanus 1981" ; Times: 1
+	Query: "Tabanus reinwardtii" ; Times: 1
+	Query: "Coccyzus americanus 1982" ; Times: 1
+	Query: "Coccyzus americanus 1985" ; Times: 1
+	Query: "Coccyzus americanus 1987" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Carduelis psaltria AND Cruz Island" ; Times: 3
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "Mimus AND Catalina" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "colinus virginianus minor" ; Times: 1
+	Query: "Catherpes mexicanus AND Baja" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT Anthony NOT Beck NOT Gaylord" ; Times: 1
+	Query: "Passerculus ammodramus AND Island" ; Times: 2
+	Query: "puffinus nativitatis" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "Junco vulcani" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "Coccyzus americanus 1976" ; Times: 1
+	Query: "Coccyzus americanus 1977" ; Times: 1
+	Query: "Passerculus ammodramus AND Island NOT Georgia" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "Coccyzus americanus 1972" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 2
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT Dixon NOT Hendrickson NOT Hobbs NOT Green NOT Hunter NOT McGregor NOT Anthony NOT Beck NOT Gaylord" ; Times: 1
+	Query: "Rana maculata maculata mappable:1" ; Times: 2
+	Query: "Aphelocoma coerulescens 1977" ; Times: 1
+	Query: "Todiramphus macleayii New guinea" ; Times: 2
+	Query: "Brachyramphus marmoratus 2014" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 2
+	Query: "Aphelocoma coerulescens 1978" ; Times: 1
+	Query: "Mimosa" ; Times: 1
+	Query: "Nomascus concolor" ; Times: 2
+	Query: "ploceus megarhynchus" ; Times: 2
+	Query: "Hybomitra pechumani" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla San Benito" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "Pandion haliaetus AND San Benito" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT McGregor NOT Anthony NOT Beck NOT Gaylord" ; Times: 1
+	Query: "Gavia immer AND Barbara Island" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "genus:gryllus" ; Times: 1
+	Query: "vntype:observation genus:Odocoileus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Kuna Yala&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Bombus fervidus 2015" ; Times: 1
+	Query: "Poecile carolinensis georgia" ; Times: 1
+	Query: "Urocissa flavirostris" ; Times: 2
+	Query: "Brachyramphus marmoratus 1990" ; Times: 1
+	Query: "Centrocercus minimus 1998" ; Times: 1
+	Query: "Anas platyrhynchos AND Barbara Island" ; Times: 1
+	Query: "Brachyramphus marmoratus 1997" ; Times: 1
+	Query: "Coccyzus americanus 2000" ; Times: 1
+	Query: "Aphelocoma coerulescens 1991" ; Times: 1
+	Query: "Coccyzus americanus 2002" ; Times: 1
+	Query: "specificepithet:leo genus:panthera" ; Times: 3
+	Query: "Aphelocoma coerulescens 1996" ; Times: 1
+	Query: "colinus virginianus insignis" ; Times: 1
+	Query: "Pandion AND Isla" ; Times: 1
+	Query: "Poecile atricapillus oregon benton County" ; Times: 1
+	Query: "Polioptila californica californica 1988" ; Times: 9
+	Query: "Zosterops japonicus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "Bombus fervidus 2016" ; Times: 1
+	Query: "Baeolophus wollweberi Chiricahua" ; Times: 1
+	Query: "Callipepla californica AND Cruz Island" ; Times: 2
+	Query: "pensylvanicus Bombus" ; Times: 6
+	Query: "Pangolin" ; Times: 1
+	Query: "Bombus frigidus 2015" ; Times: 1
+	Query: "Bombus frigidus 2016" ; Times: 1
+	Query: "aimophila fusca" ; Times: 1
+	Query: "Callipepla californica AND Santa Cruz Island" ; Times: 1
+	Query: "Sistrurus catenatus 1988" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Diceros" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT Hobbs NOT Green NOT Hunter NOT McGregor NOT Anthony NOT Beck NOT Gaylord" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "bimaculatus Bombus" ; Times: 8
+	Query: "lithobates aurora" ; Times: 1
+	Query: "impatiens Bombus" ; Times: 6
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND Cruz" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla San Benito NOT Anthony NOT Beck" ; Times: 1
+	Query: "genus:Urocyon family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 1
+	Query: "Corvus AND Cruz Island" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "vntype:observation order:Anura basisofrecord:HumanObservation" ; Times: 1
+	Query: "Centrocercus minimus 2015" ; Times: 1
+	Query: "Centrocercus minimus 2016" ; Times: 1
+	Query: "Grus americana mappable:1" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1308 download events in this period)
+Total number of records downloaded: 4442
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: India ; Times: 3
+	Country: United States ; Times: 42
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 11
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-23 ; Times: 27
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-16 ; Times: 8
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "Setophaga chrysoparia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tamil Nadu&#34;" ; Times: 3
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "colinus virginianus insignis" ; Times: 1
+	Query: "Tangara" ; Times: 2
+	Query: "diglossa" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 2
+	Query: "Nomascus concolor" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "puma concolor" ; Times: 10
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Setophaga americana" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "setophaga virens" ; Times: 2
+	Query: "Geothlypis beldingi" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "colinus virginianus minor" ; Times: 1
+	Query: "Anaxyrus nelsoni" ; Times: 3
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "vntype:observation order:Anura basisofrecord:HumanObservation" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
