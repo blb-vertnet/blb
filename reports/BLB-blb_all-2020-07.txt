@@ -1,0 +1,167 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 265
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 37
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 10
+	Country: India ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 5
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 3
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 8
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 9
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "R. j. coles" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "bequia" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "cackling goose" ; Times: 2
+	Query: "Calamus calamus mappable:1" ; Times: 2
+	Query: "r. j. coles" ; Times: 1
+	Query: "ploceus megarhynchus" ; Times: 1
+	Query: "Androdon" ; Times: 1
+	Query: "genus:machetornis" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "Adirondacks" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "specificepithet:olivaceus genus:vireo country:&#34;brazil&#34;" ; Times: 1
+	Query: "Audubon type" ; Times: 2
+	Query: "phainoptila" ; Times: 1
+	Query: "campephilus principalis" ; Times: 8
+	Query: "genus:Atelopus country:&#34;Panama&#34;" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "crotalus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "parus cinereus" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "bombus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 940 download events in this period)
+Total number of records downloaded: 1378
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 14
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panamá&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "cackling goose" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+
+
+End of report.
