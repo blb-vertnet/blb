@@ -1,0 +1,202 @@
+Report for Institution Code BLB, Resource blb_all
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 470
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 66
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Pakistan ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 6
+	Date: 2020-09-03 ; Times: 10
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 7
+	Date: 2020-09-07 ; Times: 4
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-23 ; Times: 7
+	Date: 2020-09-22 ; Times: 6
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 15
+	Date: 2020-09-30 ; Times: 5
+	Date: 2020-09-15 ; Times: 5
+	Date: 2020-09-16 ; Times: 17
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Psittacula echo" ; Times: 2
+	Query: "Red-billed Pigeon" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 2
+	Query: "Sporophila lineola" ; Times: 22
+	Query: "canis locality:austin stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "alouatta palliata mexicana" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "specificepithet:trichas genus:Geothlypis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ivory billed woodpecker" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "canis county:&#34;travis&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Alouatta palliata mexicana" ; Times: 3
+	Query: "panthera tigris sumatrae" ; Times: 2
+	Query: "amazona oratrix" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Aedes aegypti" ; Times: 2
+	Query: "scientificname:Streptopelia decaocto" ; Times: 8
+	Query: "specificepithet:graciae genus:Setophaga" ; Times: 1
+	Query: "scientificname:Furnarius rufus" ; Times: 2
+	Query: "genus:Steatornis" ; Times: 1
+	Query: "class:Aves recordedby:Matthews" ; Times: 1
+	Query: "genus:Ammodramus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 5
+	Query: "scientificname:Pan Paniscus" ; Times: 1
+	Query: "scientificname:Cebus capucinus" ; Times: 1
+	Query: "Eudynamys scolopaceus scolopaceus" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "synallaxis spixi" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 2
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Setophaga adelaidae" ; Times: 6
+	Query: "family:Icteridae stateprovince:&#34;California&#34; year &gt;= 1985 year &lt;= 1987" ; Times: 1
+	Query: "scientificname:Aedes aegypti" ; Times: 1
+	Query: "scientificname:Pan paniscus" ; Times: 14
+	Query: "scientificname:Loxodonta africana" ; Times: 5
+	Query: "wolves" ; Times: 1
+	Query: "alouatta pigra" ; Times: 3
+	Query: "Zosterops japonicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 976 download events in this period)
+Total number of records downloaded: 4325
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Netherlands ; Times: 7
+	Country: Mexico ; Times: 5
+	Country: United Arab Emirates ; Times: 1
+	Country: Panama ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 46
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-02 ; Times: 8
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-24 ; Times: 11
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 6
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 7
+	Date: 2020-09-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 2
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Shoalhaven" ; Times: 2
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "cervus canadensis" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "Bucephala" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "genus:Hylophilus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Collocalia esculenta" ; Times: 1
+
+
+End of report.
